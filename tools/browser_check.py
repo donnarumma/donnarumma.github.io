@@ -132,6 +132,18 @@ async def main(port):
                     assert await evaluate("document.querySelector('[data-menu-toggle]').getAttribute('aria-expanded')==='false'")
                 await evaluate("document.querySelector('[data-search-open]').click();document.querySelector('#site-query').value='inferential planning';document.querySelector('#site-query').dispatchEvent(new Event('input'))")
                 assert await evaluate("document.querySelector('.search-dialog').open && document.querySelectorAll('.search-results li').length===1")
+                metrics['linkTargetsCorrect'] = await evaluate('''(()=>{
+                    const internalHosts=new Set(['www.francescodonnarumma.net','francescodonnarumma.net','donnarumma.github.io']);
+                    return [...document.querySelectorAll('a[href]')].every(a=>{
+                        const url=new URL(a.href);
+                        const external=['http:','https:'].includes(url.protocol)
+                            && !internalHosts.has(url.hostname.replace(/\\.$/,''));
+                        return external
+                            ? a.target==='_blank' && a.relList.contains('noopener') && a.relList.contains('noreferrer')
+                            : !a.target || a.target==='_self';
+                    });
+                })()''')
+                assert metrics['linkTargetsCorrect'], (page, width, 'incorrect link target')
                 if page == 'papers' and width in [1440, 390]:
                     shot = await call('Page.captureScreenshot', {'format': 'png', 'captureBeyondViewport': False})
                     (output / f'search-{width}.png').write_bytes(base64.b64decode(shot['data']))
@@ -140,7 +152,7 @@ async def main(port):
                 print('PASS', page, f'{width}x{height}', flush=True)
         assert not report['errors'], report['errors']
         assert not report['remote_requests'], report['remote_requests']
-        report['result'] = 'PASS: offline rendering, images, fonts, navigation, search and filters'
+        report['result'] = 'PASS: offline rendering, images, fonts, navigation, link targets, search and filters'
         (output / 'browser-report.json').write_text(json.dumps(report, indent=2) + '\n')
         await call('Network.setBlockedURLs', {'urls': []})
         await call('Network.emulateNetworkConditions', {'offline': False, 'latency': 0, 'downloadThroughput': -1, 'uploadThroughput': -1})

@@ -17,6 +17,12 @@ Sono locali pagine, ricerca, filtri, immagini, GIF, font, CV e bibliografia.
 I collegamenti a editori, profili e video YouTube richiedono Internet quando
 vengono aperti; non vengono caricati iframe o tracker in background.
 
+I link esterni si aprono in una nuova scheda con `noopener noreferrer`.
+Navigazione interna, ancore e download locali restano nella stessa scheda;
+anche gli URL assoluti dei domini personali e di `donnarumma.github.io`
+sono riconosciuti come interni. La regola viene applicata alla generazione
+dell'HTML, quindi funziona anche senza JavaScript.
+
 ## Modificare I Contenuti
 
 | File | Contenuto |
@@ -60,7 +66,12 @@ sito storico ma non necessariamente nel BibTeX. Nessuna modifica ai CV originali
 ## Verifiche
 
 `tools/check.py` controlla file, link interni, ancore, conteggio delle voci,
-assenza di dipendenze remote e integrita' delle immagini originali.
+assenza di dipendenze remote, destinazione dei link e integrita' delle immagini
+originali. I test mirati per URL, attributi e riscritture dei link si eseguono con:
+
+```bash
+python3 -m unittest discover -s tools -p 'test_*.py'
+```
 
 Il test opzionale `tools/browser_check.py` verifica Chromium a cinque larghezze,
 con Internet bloccato: immagini, font, ricerca, filtri e navigazione mobile.

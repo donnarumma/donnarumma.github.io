@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 LABELS = {'home': 'Home', 'research': 'Research', 'papers': 'Papers',
           'personal': 'Personal', 'contacts': 'Contacts', 'researchmore': 'Research Me'}
 NAVIGATION = ['home', 'research', 'papers', 'personal', 'contacts']
+INTERNAL_HOSTS = {'www.francescodonnarumma.net', 'francescodonnarumma.net', 'donnarumma.github.io'}
 
 
 def escape(value):
@@ -66,8 +67,16 @@ def image(record, prefix, css='', eager=False):
             f'loading="{"eager" if eager else "lazy"}" decoding="async">')
 
 
-def link(url, label, css='', external=False):
-    extra = ' target="_blank" rel="noopener noreferrer"' if external else ''
+def is_external_url(url):
+    parsed = urlsplit(url)
+    return (parsed.scheme in ('', 'http', 'https') and bool(parsed.hostname)
+            and parsed.hostname.rstrip('.') not in INTERNAL_HOSTS)
+
+
+def link(url, label, css='', title=None):
+    extra = ' target="_blank" rel="noopener noreferrer"' if is_external_url(url) else ''
+    if title is not None:
+        extra += f' title="{escape(title)}"'
     return f'<a href="{escape(url)}" class="{css}"{extra}>{label}</a>'
 
 
@@ -101,7 +110,15 @@ class LocalHTML(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag == 'a':
             self.anchor_depth += 1
-            attrs = [(key, self.rewrite_url(value) if key == 'href' else value) for key, value in attrs]
+            attributes = dict(attrs)
+            if attributes.get('href') is not None:
+                attributes['href'] = self.rewrite_url(attributes['href'])
+            attributes.pop('target', None)
+            if is_external_url(attributes.get('href') or ''):
+                attributes['target'] = '_blank'
+                relations = (attributes.get('rel') or '').split()
+                attributes['rel'] = ' '.join(dict.fromkeys(relations + ['noopener', 'noreferrer']))
+            attrs = list(attributes.items())
         attributes = ''.join(' ' + key + (f'="{escape(value)}"' if value is not None else '') for key, value in attrs)
         self.parts.append('<' + tag + attributes + '>')
 
@@ -142,10 +159,10 @@ def profiles(data, settings, prefix):
         if profile['label'] in settings['archived_profiles']:
             continue
         url = settings['profile_updates'].get(profile['label'], profile['url'])
-        items.append(f'<a class="profile-link" href="{escape(url)}" title="{escape(profile["label"])}">' + image(profile['image'], prefix, eager=True) + '</a>')
+        items.append(link(url, image(profile['image'], prefix, eager=True), 'profile-link', title=profile['label']))
     openalex = next(p for p in settings['additional_profiles'] if p['label'] == 'OpenAlex')
-    items.append(f'<a class="profile-link profile-openalex" href="{escape(openalex["url"])}" title="OpenAlex">'
-                 + image(openalex['image'], prefix, eager=True) + '</a>')
+    items.append(link(openalex['url'], image(openalex['image'], prefix, eager=True),
+                      'profile-link profile-openalex', title='OpenAlex'))
     items.append(image(data['brain'], prefix, 'brain', eager=True))
     return ''.join(items)
 

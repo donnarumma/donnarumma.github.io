@@ -9,6 +9,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from build import is_external_url
+
 ROOT = Path(__file__).resolve().parents[1]
 ROUTES = ['home', 'research', 'papers', 'personal', 'contacts', 'researchmore']
 
@@ -32,7 +34,15 @@ class Page(HTMLParser):
         if tag == 'h1':
             self.h1 += 1
         if tag == 'a':
-            self.links.append(attrs.get('href', ''))
+            url = attrs.get('href', '')
+            self.links.append(url)
+            if is_external_url(url):
+                if attrs.get('target') != '_blank':
+                    self.errors.append('External link must open a new tab: ' + url)
+                if not {'noopener', 'noreferrer'} <= set(attrs.get('rel', '').split()):
+                    self.errors.append('External link missing safe rel attributes: ' + url)
+            elif attrs.get('target') not in (None, '_self'):
+                self.errors.append('Internal or non-web link must keep the current tab: ' + url)
         if tag in ['img', 'script', 'iframe', 'source'] and attrs.get('src'):
             self.assets.append(attrs['src'])
         if tag == 'link' and attrs.get('rel') in ['stylesheet', 'icon']:

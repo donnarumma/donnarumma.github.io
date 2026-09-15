@@ -50,6 +50,10 @@ Proprietario dei CV e del sito: **Francesco Donnarumma**.
   tramite l'URL Cell `pdfExtended/S2211-1247(26)00983-6` fornito dall'autore.
   Il download non e' stato verificato automaticamente: questo collegamento
   e' distinto dai tre PDF verificati sopra. DOI sul titolo e bioRxiv conservati.
+- Aggiunto anche il `[pdf]` di A Predictive Processing Framework for Joint
+  Action and Communication (`paper-02`): URL ScienceDirect `pdfft` fornito
+  dall'autore, con parametri originali conservati. Il download non e' stato
+  verificato automaticamente; DOI sul titolo invariato.
 - Aggiunto `[arXiv]` per Active Digital Twins: la
   [scheda 2506.14453](https://arxiv.org/abs/2506.14453) conferma titolo, autori
   e DOI editoriale. Uniformati i sei link preesistenti alla dicitura `[arXiv]`
