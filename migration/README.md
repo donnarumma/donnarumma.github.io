@@ -31,6 +31,34 @@ Proprietario dei CV e del sito: **Francesco Donnarumma**.
 
 ## Copertura
 
+### PDF Ufficiali E arXiv (2026-09-15)
+
+- Per i nuovi `[pdf]` usare solo il testo ufficiale pubblicato dall'editore
+  o dall'ente responsabile degli atti; per la tesi, il deposito ufficiale
+  dell'universita'. Non sostituire un PDF editoriale mancante con preprint,
+  accepted manuscript o copie alternative trovate in rete.
+- Aggiunti tre PDF: testo e autori verificati sul file scaricato, risposta HTTP
+  200 e contenuto PDF effettivo, non una pagina di accesso o un programma.
+
+| Voce | Fonte ufficiale |
+| --- | --- |
+| `paper-63`, An action tuned Neural Network Architecture for hand pose estimation | [SCITEPRESS, PDF](https://www.scitepress.org/papers/2010/30864/30864.pdf) |
+| `paper-64`, A differential discrete particle swarm optimization approach... | [IMEKO, PDF](https://www.imeko.org/publications/tc4-2010/IMEKO-TC4-2010-095.pdf) |
+| `paper-66`, A model for Programmability and Virtuality in Dynamical Neural Networks | [FedOA, scheda della tesi](https://www.fedoa.unina.it/4293/) e [PDF ufficiale](https://www.fedoa.unina.it/4293/1/donnarumma_virtuality.pdf) |
+
+- Aggiunto `[arXiv]` per Active Digital Twins: la
+  [scheda 2506.14453](https://arxiv.org/abs/2506.14453) conferma titolo, autori
+  e DOI editoriale. Uniformati i sei link preesistenti alla dicitura `[arXiv]`
+  e all'indirizzo `https://arxiv.org/abs/...`, mai al PDF del preprint.
+- Dove il download ufficiale non e' disponibile o non e' verificabile,
+  nessun nuovo `[pdf]`: i segnaposto senza link restano invisibili sul sito.
+  Le eventuali copie locali saranno aggiunte in un intervento successivo.
+- Titoli collegati ai DOI, ordine delle 70 voci e collegamenti PDF storici
+  conservati. I vecchi collegamenti, compresi quelli a programmi di convegni,
+  non sono stati ricertificati come PDF degli articoli in questo intervento.
+- Generazione e verifica locali; pubblicazione invariata da `main` / `(root)`
+  con `.nojekyll`, senza workflow personalizzati o modifiche DNS.
+
 ### Link DOI Nei Titoli (2026-09-15)
 
 - I titoli di 58 delle 70 voci in Papers rimandano direttamente a
