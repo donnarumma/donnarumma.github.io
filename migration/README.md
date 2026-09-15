@@ -46,6 +46,10 @@ Proprietario dei CV e del sito: **Francesco Donnarumma**.
 | `paper-64`, A differential discrete particle swarm optimization approach... | [IMEKO, PDF](https://www.imeko.org/publications/tc4-2010/IMEKO-TC4-2010-095.pdf) |
 | `paper-66`, A model for Programmability and Virtuality in Dynamical Neural Networks | [FedOA, scheda della tesi](https://www.fedoa.unina.it/4293/) e [PDF ufficiale](https://www.fedoa.unina.it/4293/1/donnarumma_virtuality.pdf) |
 
+- Aggiunto successivamente il `[pdf]` di Inferential planning (`paper-01`)
+  tramite l'URL Cell `pdfExtended/S2211-1247(26)00983-6` fornito dall'autore.
+  Il download non e' stato verificato automaticamente: questo collegamento
+  e' distinto dai tre PDF verificati sopra. DOI sul titolo e bioRxiv conservati.
 - Aggiunto `[arXiv]` per Active Digital Twins: la
   [scheda 2506.14453](https://arxiv.org/abs/2506.14453) conferma titolo, autori
   e DOI editoriale. Uniformati i sei link preesistenti alla dicitura `[arXiv]`
