@@ -31,6 +31,31 @@ Proprietario dei CV e del sito: **Francesco Donnarumma**.
 
 ## Copertura
 
+### Link DOI Nei Titoli (2026-09-15)
+
+- I titoli di 58 delle 70 voci in Papers rimandano direttamente a
+  `https://doi.org/...`, senza una nuova riga o un pulsante separato. Aggiornate
+  43 voci; testi, ordine e collegamenti a PDF, preprint e codice conservati.
+- Per PAM il titolo rimanda al DOI del preprint arXiv; resta "Under Review".
+  Per gli articoli pubblicati viene usato il DOI editoriale, non il preprint.
+- Fonti: DOI gia' nelle schede e nel BibTeX canonico per PAM, From Kinematics
+  to Sensorimotor Communication e Exploring the Latent Space. Il BibTeX e il
+  CV canonici non sono stati modificati in questo intervento.
+- Ulteriori DOI verificati sulle fonti degli autori/editori:
+  [Multimodal Feedback](https://iris.polito.it/handle/11583/2973871),
+  [Metrological performance](https://www.iris.unina.it/handle/11588/767993),
+  [An Action-tuned Neural Network Architecture](https://www.scitepress.org/papers/2010/30864/30864.pdf).
+- Le 12 voci senza DOI verificato conservano i riferimenti originali:
+  `paper-10`, `paper-25`, `paper-48`, `paper-53`, `paper-55`, `paper-59`,
+  `paper-61`, `paper-64`, `paper-66`, `paper-68`, `paper-69`, `paper-70`.
+  Comprendono tesi, interventi, atti e pubblicazioni senza DOI disponibile
+  nelle fonti consultate. Non vengono assegnati DOI di lavori simili.
+- Il DOI gia' presente per l'intervento ECVP (`paper-33`) identifica la
+  raccolta degli abstract, non un articolo individuale; il riferimento e'
+  conservato senza presentarlo come un nuovo DOI individuale.
+- Generazione e verifica locali, poi commit e push. Pubblicazione da
+  `main` / `(root)` con `.nojekyll`; nessun nuovo workflow o cambio DNS.
+
 | Sorgente pubblica | Pagina locale | Contenuti conservati |
 | --- | --- | --- |
 | [/](https://www.francescodonnarumma.net/) e [/home](https://www.francescodonnarumma.net/home) | `index.html`, `home/index.html` | Nome in GIF animate, Angel, quattro video, 16 highlights. |

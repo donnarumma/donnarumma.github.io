@@ -445,7 +445,7 @@
           "year": "2026",
           "paragraphs": [
             "Antonino Visalli, Francesco Maria Calistroni, Margherita Calderan,<strong> Francesco Donnarumma</strong>, Marco Zorzi, Ettore Ambrosini",
-            "<em>A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)</em><em> </em>",
+            "<a href=\"https://doi.org/10.48550/arXiv.2411.13203\"><em>A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)</em></a><em> </em>",
             "Under Review",
             "2026 [pdf] [bib] [<a href=\"https://arxiv.org/abs/2411.13203\">arxiv</a>] [<a href=\"https://osf.io/3jve9/\">code</a>]"
           ]
@@ -474,7 +474,7 @@
           "id": "paper-07",
           "year": "2025",
           "paragraphs": [
-            "Giovanni Pezzulo, Laura Barca, Domenico Maisto, <strong>Francesco Donnarumma</strong>. <br><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1571064525000399\"><em>From Kinematics to Sensorimotor Communication: Understanding Dual Roles of Action in Social Interaction</em></a>. <br><br>Comment on \u201cKinematic coding: Measuring information in naturalistic behaviour\u201d by Cristina Becchio, Kiri Pullar, Eugenio Scaliti, Stefano Panzeri. Physics of Life Reviews",
+            "Giovanni Pezzulo, Laura Barca, Domenico Maisto, <strong>Francesco Donnarumma</strong>. <br><a href=\"https://doi.org/10.1016/j.plrev.2025.03.009\"><em>From Kinematics to Sensorimotor Communication: Understanding Dual Roles of Action in Social Interaction</em></a>. <br><br>Comment on \u201cKinematic coding: Measuring information in naturalistic behaviour\u201d by Cristina Becchio, Kiri Pullar, Eugenio Scaliti, Stefano Panzeri. Physics of Life Reviews",
             "2025 [pdf] [bib]"
           ]
         },
@@ -483,7 +483,7 @@
           "year": "2024",
           "paragraphs": [
             "Mirco Frosolone, Roberto Prevete, Lorenzo Ognibeni, Salvatore Giugliano, Andrea Apicella, Giovanni Pezzulo, <strong>Francesco Donnarumma</strong>",
-            "<a href=\"https://www.mdpi.com/1424-8220/24/18/6110\"><em>Enhancing EEG-Based MI-BCIs with Class-Specific and Subject-Specific Features Detected by Neural Manifold Analysis</em></a>",
+            "<a href=\"https://doi.org/10.3390/s24186110\"><em>Enhancing EEG-Based MI-BCIs with Class-Specific and Subject-Specific Features Detected by Neural Manifold Analysis</em></a>",
             "Sensors 24 (18) Special Issue: <a href=\"https://www.mdpi.com/journal/sensors/special_issues/AF30066186\">Biomedical Sensing and Bioinformatics Processing</a> doi:10.3390/s24186110",
             "2024 [<a href=\"https://www.mdpi.com/1424-8220/24/18/6110/pdf\">pdf</a>] [bib]"
           ]
@@ -493,7 +493,7 @@
           "year": "2024",
           "paragraphs": [
             "Sabatina Criscuolo, Salvatore Giugliano, Andrea Apicella, <strong>Francesco Donnarumma</strong>, Francesco Amato, Annarita Tedesco, Luca Longo",
-            "<em>Exploring the Latent Space of Person-Specific Convolutional Autoencoders for Eye-Blink Artefact Mitigation in EEG Signals</em>",
+            "<a href=\"https://doi.org/10.1109/RTSI61910.2024.10761377\"><em>Exploring the Latent Space of Person-Specific Convolutional Autoencoders for Eye-Blink Artefact Mitigation in EEG Signals</em></a>",
             "IEEE RTSI 2024, the 8th Forum on Research and Technologies for Society and Industry, pp 414-419 - Lecco., Italy",
             "September 19, 2024 [pdf] [bib]"
           ]
@@ -525,7 +525,7 @@
           "year": "2023",
           "paragraphs": [
             "Mattia Eluchans, <strong>Francesco Donnarumma</strong>, Giovanni Pezzulo.",
-            "<a href=\"https://ui.adsabs.harvard.edu/link_gateway/2024PhLRv..48..106E/doi:10.1016/j.plrev.2023.12.009\"><em>From particles to collectives</em></a>.",
+            "<a href=\"https://doi.org/10.1016/j.plrev.2023.12.009\"><em>From particles to collectives</em></a>.",
             "Commentary on&quot; Path integrals, particular kinds, and strange things&quot; by Friston et al.\u201d",
             "Physics of Life Reviews 48 (2024), pp. 106\u2013108. doi:10.1016/j.plrev.2023.12.009",
             "2023 [pdf] [bib]"
@@ -536,7 +536,7 @@
           "year": "2023",
           "paragraphs": [
             "Matteo Priorelli, Federico Maggiore, Antonella Maselli, <strong>Francesco Donnarumma</strong>, Domenico Maisto, Francesco Mannella, Ivilin Peev Stoianov, Giovanni Pezzulo",
-            "<a href=\"https://ieeexplore.ieee.org/document/10341205\"><em>Modeling motor control in continuous-time Active Inference: a survey</em></a>",
+            "<a href=\"https://doi.org/10.1109/TCDS.2023.3338491\"><em>Modeling motor control in continuous-time Active Inference: a survey</em></a>",
             "IEEE Transactions on Cognitive and Developmental Systems pp1-15 doi:10.1109/TCDS.2023.3338491",
             "2023 [pdf] [bib] [<a href=\"https://arxiv.org/abs/2310.05144\">arxiv</a>]"
           ]
@@ -546,7 +546,7 @@
           "year": "2022",
           "paragraphs": [
             "Pasquale Arpaia, Damien Coyle, <strong>Francesco Donnarumma</strong>, Antonio Esposito, Angela Natalizio, Marco Parvis",
-            "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0263224122015007\"><em>Visual and haptic feedback in detecting motor imagery within a wearable brain-computer interface</em></a>",
+            "<a href=\"https://doi.org/10.1016/j.measurement.2022.112304\"><em>Visual and haptic feedback in detecting motor imagery within a wearable brain-computer interface</em></a>",
             "Measurement 206 p. 112304 doi:10.1016/j.measurement.2022.112304",
             "10 December 2022 [<a href=\"https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/2022donnarummaMeasurementHaptic.pdf\">pdf</a>] [<a href=\"https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/bibs/2022donnarummaMeasurementHaptic.bib\">bib</a>] [<a href=\"https://dx.doi.org/10.2139/ssrn.4147552\">SSRN</a>]"
           ]
@@ -566,7 +566,7 @@
           "year": "2022",
           "paragraphs": [
             "Pasquale Arpaia, Damien Coyle, <strong>Francesco Donnarumma</strong>, Antonio Esposito, Angela Natalizio, Marco Parvis, Ersilia Vallefuoco",
-            "<a href=\"https://ieeexplore.ieee.org/abstract/document/9967501\"><em>Multimodal Feedback in Assisting a Wearable Brain-Computer Interface Based on Motor Imagery</em></a>",
+            "<a href=\"https://doi.org/10.1109/MetroXRAINE54828.2022.9967501\"><em>Multimodal Feedback in Assisting a Wearable Brain-Computer Interface Based on Motor Imagery</em></a>",
             "2022 IEEE International Conference on Metrology for Extended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), pp 691-696, 26 October",
             "2022 [pdf] [bib]"
           ]
@@ -576,7 +576,7 @@
           "year": "2022",
           "paragraphs": [
             "Pasquale Arpaia, Damien Coyle, <strong>Francesco Donnarumma</strong>, Antonio Esposito, Angela Natalizio, Marco Parvis",
-            "<a href=\"https://link.springer.com/chapter/10.1007/978-3-031-15553-6_28\"><em>Non-immersive Versus Immersive Extended Reality for Motor Imagery Neurofeedback Within a Brain-Computer Interfaces</em></a>",
+            "<a href=\"https://doi.org/10.1007/978-3-031-15553-6_28\"><em>Non-immersive Versus Immersive Extended Reality for Motor Imagery Neurofeedback Within a Brain-Computer Interfaces</em></a>",
             "2022 IEEE International Conference on Extended Reality, pp 407\u2013419, 22 July",
             "2022 [pdf] [bib]"
           ]
@@ -596,7 +596,7 @@
           "year": "2021",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Giovanni Pezzulo",
-            "<a href=\"https://www.sciencedirect.com/science/article/pii/S2590291121000450\"><em>Moral decisions in the age of COVID-19: your choices really matter</em></a>",
+            "<a href=\"https://doi.org/10.1016/j.ssaho.2021.100149\"><em>Moral decisions in the age of COVID-19: your choices really matter</em></a>",
             "Social Sciences &amp; Humanities Open 4 (1) p. 100149 doi:10.1016/j.ssaho.2021.100149",
             "14 April 2021 [<a href=\"https://www.sciencedirect.com/science/article/pii/S2590291121000450/pdfft?md5=0dfdc5cb66ce763108d18c70fcf8f463&amp;pid=1-s2.0-S2590291121000450-main.pdf\">pdf</a>] [bib] [<a href=\"https://doi.org/10.48550/arXiv.2004.07081\">arxiv</a>]"
           ]
@@ -626,7 +626,7 @@
           "year": "2021",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Roberto Prevete, Domenico Maisto, Simone Fuscone, Emily M. Irvine, <br>Matthijs A. A. van der Meer, Caleb Kemere, Giovanni Pezzulo",
-            "<a href=\"http://www.nature.com/articles/s41598-020-79744-7\"><em>A framework to identify structured behavioral patterns within rodent spatial trajectories</em></a>",
+            "<a href=\"https://doi.org/10.1038/s41598-020-79744-7\"><em>A framework to identify structured behavioral patterns within rodent spatial trajectories</em></a>",
             "Scientific Reports doi:10.1038/s41598-020-79744-7",
             "11 January 2021 [<a href=\"https://www.nature.com/articles/s41598-020-79744-7.pdf\">pdf</a>] [bib] [<a href=\"https://doi.org/10.1101/2020.03.02.967489\">biorxiv</a>]"
           ]
@@ -646,7 +646,7 @@
           "year": "2021",
           "paragraphs": [
             "Pasquale Arpaia, Renato Cuocolo,<strong> Francesco Donnarumma</strong>, Antonio Esposito, Nicola Moccaldi, <br>Angela Natalizio, Roberto Prevete",
-            "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0263224120310721\"><em>Conceptual design of a machine learning-based wearable soft sensor for non-invasive cardiovascular risk assessment</em></a>",
+            "<a href=\"https://doi.org/10.1016/j.measurement.2020.108551\"><em>Conceptual design of a machine learning-based wearable soft sensor for non-invasive cardiovascular risk assessment</em></a>",
             "Measurement 169 (2021), p. 108551. doi:10.1016/j.measurement.2020.108551",
             "01 February 2021 [<a href=\"https://www.dropbox.com/s/nf7180er1k6580b/donnarummaMeasurements2020Conceptual.pdf?dl=1\">pdf</a>] [bib]"
           ]
@@ -687,7 +687,7 @@
           "year": "2019",
           "paragraphs": [
             "Monica Maranesi, Stefania Bruni, Alessandro Livi, <strong>Francesco Donnarumma</strong>, Giovanni Pezzulo, Luca Bonini",
-            "<a href=\"https://www.nature.com/articles/s41598-019-48216-y\"><em>Differential neural dynamics underlying pragmatic and semantic affordance processing in macaque ventral premotor cortex</em></a>",
+            "<a href=\"https://doi.org/10.1038/s41598-019-48216-y\"><em>Differential neural dynamics underlying pragmatic and semantic affordance processing in macaque ventral premotor cortex</em></a>",
             "Scientific Reports 9 (11700) doi:10.1038/s41598-019-48216-y",
             "12 August 2019 [<a href=\"https://www.nature.com/articles/s41598-019-48216-y.pdf\">pdf</a>] [bib]"
           ]
@@ -697,7 +697,7 @@
           "year": "2019",
           "paragraphs": [
             "Giovanni Pezzulo, <strong>Francesco Donnarumma</strong>, Domenico Maisto, Ivilin Peev Stoianov",
-            "<a href=\"https://www.sciencedirect.com/science/article/pii/S2352154618301682\"><em>Planning at decision time and in the background during spatial navigation</em></a>",
+            "<a href=\"https://doi.org/10.1016/j.cobeha.2019.04.009\"><em>Planning at decision time and in the background during spatial navigation</em></a>",
             "Current Opinion in Behavioral Sciences. 29:69-76 doi:10.1016/j.cobeha.2019.04.009",
             "01 Ottobre 2019 [<a href=\"https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/2019donnarummaCurrOpinBehavSciPlanning.pdf\">pdf</a>] [<a href=\"https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/bibs/2019donnarummaCurrOpinBehavSciPlanning.bib\">bib</a>]"
           ]
@@ -707,7 +707,7 @@
           "year": "2019",
           "paragraphs": [
             "Carlos M. G\u00f3mez, Antonio Arjona, <strong>Francesco Donnarumma</strong>, Domenico Maisto, Elena Isabel Rodr\u00edguez Mart\u00ednez, Giovanni Pezzulo",
-            "<a href=\"https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01424/\"><em>Tracking the time course of Bayesian inference with Event Related Potentials: a study using the central cue Posner paradigm</em></a><em> </em>",
+            "<a href=\"https://doi.org/10.3389/fpsyg.2019.01424\"><em>Tracking the time course of Bayesian inference with Event Related Potentials: a study using the central cue Posner paradigm</em></a><em> </em>",
             "Frontiers in Psychology, section Cognition. Vol. 10 pp. 1424 doi: 10.3389/fpsyg.2019.01424",
             "19 June 2019 [<a href=\"https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01424/pdf\">pdf</a>] [<a href=\"https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01424/bibTex\">bib</a>]"
           ]
@@ -717,7 +717,7 @@
           "year": "2019",
           "paragraphs": [
             "Pasquale Arpaia, Renato Cuocolo, <strong>Francesco Donnarumma,</strong> Dario D\u2019Andrea, Antonio Esposito, Nicola Moccaldi, Angela Natalizio, Roberto Prevete.",
-            "<a href=\"https://ieeexplore.ieee.org/document/8792909\"><em>Feasibility of cardiovascular risk assessment through non-invasive measurements</em></a>",
+            "<a href=\"https://doi.org/10.1109/METROI4.2019.8792909\"><em>Feasibility of cardiovascular risk assessment through non-invasive measurements</em></a>",
             "IEEE International Workshop on Metrology for Industry 4.0 and IoT (MetroInd4.0&amp;IoT). Neaples, Italy. doi:10.1109/METROI4.2019.8792909",
             "4-6 June 2019 [<a href=\"http://www.metroind40iot.org/files/Program_MetroInd.pdf\">pdf</a>] [bib]"
           ]
@@ -727,7 +727,7 @@
           "year": "2019",
           "paragraphs": [
             "Leopoldo Angrisani, Pasquale Arpaia, <strong>Francesco Donnarumma</strong>, Antonio Esposito, Nicola Moccaldi, Marco Parvis.",
-            "<a href=\"https://ieeexplore.ieee.org/abstract/document/8827168\"><em>Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery</em></a>",
+            "<a href=\"https://doi.org/10.1109/I2MTC.2019.8827168\"><em>Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery</em></a>",
             "IEEE International Instrumentation and Measurement Technology (I2MTC) 2019, Auckland, New Zealand.",
             "20-23 May 2019 [<a href=\"https://i2mtc2019.ieee-ims.org/sites/i2mtc19/files/documents/call-docs/I2MTC-2019_Program_FINAL_Ad_updated_V2_0.pdf\">pdf</a>] [bib]"
           ]
@@ -757,7 +757,7 @@
           "year": "2019",
           "paragraphs": [
             "Giovanni Pezzulo, <strong>Francesco Donnarumma</strong>, Haris Dindo, Alessandro D&#x27;Ausilio, Ivana Konvalinka, Cristiano Castelfranchi",
-            "<a href=\"https://www.sciencedirect.com/science/article/pii/S1571064519300582\"><em>The future of sensorimotor communication research</em></a><em> </em>",
+            "<a href=\"https://doi.org/10.1016/j.plrev.2019.03.012\"><em>The future of sensorimotor communication research</em></a><em> </em>",
             "<em>Reply to comments on \u201cThe body talks: Sensorimotor communication and its brain and kinematic signatures\u201d</em>",
             "Physics of life reviews. Vol. 28 pp. 46-51. doi:10.1016/j.plrev.2019.03.012",
             "01 March 2019 [<a href=\"https://www.sciencedirect.com/science/article/pii/S1571064519300582/pdfft?md5=7c167e7fb961f90dccf579b71e06c41b&amp;pid=1-s2.0-S1571064519300582-main.pdf\">pdf</a>] [bib]"
@@ -768,7 +768,7 @@
           "year": "2018",
           "paragraphs": [
             "Roberto Prevete, <strong>Francesco Donnarumma</strong>, Andrea d&#x27;Avella, Giovanni Pezzulo",
-            "<a href=\"http://www.nature.com/articles/s41598-017-18776-y\"><em>Evidence for sparse synergies in grasping actions</em></a>",
+            "<a href=\"https://doi.org/10.1038/s41598-017-18776-y\"><em>Evidence for sparse synergies in grasping actions</em></a>",
             "Scientific Reports 8 (616). doi:10.1038/s41598-017-18776-y",
             "12 January 2018 [<a href=\"https://www.nature.com/articles/s41598-017-18776-y.pdf\">pdf</a>] [bib]"
           ]
@@ -778,7 +778,7 @@
           "year": "2018",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Haris Dindo, Giovanni Pezzulo",
-            "<a href=\"http://ieeexplore.ieee.org/document/8049374/\"><em>Sensorimotor communication for humans and robots: improving interactive skills by sending coordination signals</em></a>",
+            "<a href=\"https://doi.org/10.1109/TCDS.2017.2756107\"><em>Sensorimotor communication for humans and robots: improving interactive skills by sending coordination signals</em></a>",
             "IEEE Transactions on Cognitive and Developmental Systems (TCDS). Vol 10 (4). pp. 903-917. doi:10.1109/TCDS.2017.2756107",
             "December 2018 [pdf] [bib]"
           ]
@@ -788,7 +788,7 @@
           "year": "2017",
           "paragraphs": [
             "Giovanni Pezzulo, <strong>Francesco Donnarumma</strong>, Pierpaolo Iodice, Domenico Maisto, Ivilin Stoianov",
-            "<a href=\"http://www.mdpi.com/1099-4300/19/6/266\"><em>Model-based approaches to active perception and control</em></a>",
+            "<a href=\"https://doi.org/10.3390/e19060266\"><em>Model-based approaches to active perception and control</em></a>",
             "Entropy. Special Issue on Information-Processing and Embodied, Embedded, Enactive Cognition. Volume 19 Issue 6 pp. 266. doi:10.3390/e19060266",
             "07 June 2017 [<a href=\"http://www.mdpi.com/1099-4300/19/6/266/pdf\">pdf</a>] [<a href=\"https://www.dropbox.com/s/er2yzbbthic675o/donnarumma2017EntropyModel-based.bib?dl=1\">bib</a>]"
           ]
@@ -798,7 +798,7 @@
           "year": "2017",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Haris Dindo, Pierpaolo Iodice, Giovanni Pezzulo",
-            "<a href=\"https://link.springer.com/article/10.1007/s00422-017-0714-1\"><em>You cannot speak and listen at the same time: a probabilistic model of turn-taking</em></a>",
+            "<a href=\"https://doi.org/10.1007/s00422-017-0714-1\"><em>You cannot speak and listen at the same time: a probabilistic model of turn-taking</em></a>",
             "Biological Cybernetics. Volume 111, Issue 2, pp 165-183. doi:10.1007/s00422-017-0714-1",
             "01 April 2017 [<a href=\"https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=d1f1f7d0-b2c7-4b86-9659-1021da8a19c0\">pdf</a>] [<a href=\"https://citation-needed.springer.com/v2/references/10.1007/s00422-017-0714-1?format=bibtex&amp;flavour=citation\">bib</a>]"
           ]
@@ -808,7 +808,7 @@
           "year": "2017",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Marcello Costantini, Ettore Ambrosini, Karl Friston, Giovanni Pezzulo",
-            "<a href=\"http://www.sciencedirect.com/science/article/pii/S0010945217300308\"><em>Action perception as hypothesis testing</em></a>",
+            "<a href=\"https://doi.org/10.1016/j.cortex.2017.01.016\"><em>Action perception as hypothesis testing</em></a>",
             "Cortex. Volume 89 Pages 45-60. doi:10.1016/j.cortex.2017.01.016",
             "01 April 2017 [<a href=\"http://www.sciencedirect.com/science/article/pii/S0010945217300308/pdfft?md5=4768ca42c9ff845a78508276a81b8c2c&amp;pid=1-s2.0-S0010945217300308-main.pdf\">pdf</a>] [bib]"
           ]
@@ -818,7 +818,7 @@
           "year": "2017",
           "paragraphs": [
             "Giovanni Pezzulo, Pierpaolo Iodice, <strong>Francesco Donnarumma</strong>, Haris Dindo, Guenther Knoblich.",
-            "<a href=\"http://journals.sagepub.com/doi/full/10.1177/0956797616683015\"><em>Avoiding accidents at the champagne reception: A study of joint lifting and balancing</em></a>",
+            "<a href=\"https://doi.org/10.1177/0956797616683015\"><em>Avoiding accidents at the champagne reception: A study of joint lifting and balancing</em></a>",
             "Psychological Science. Volume 28, Issue 3, pp. 338 - 345 doi:10.1177/0956797616683015",
             "01 March 2017 [<a href=\"https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=4c7d6a6f-695e-47c3-a9f0-f364d200f589\">pdf</a>] [bib]"
           ]
@@ -828,7 +828,7 @@
           "year": "2017",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Haris Dindo, Giovanni Pezzulo",
-            "<a href=\"http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00237/abstract\"><em>Sensorimotor coarticulation in the execution and recognition of intentional actions</em></a>",
+            "<a href=\"https://doi.org/10.3389/fpsyg.2017.00237\"><em>Sensorimotor coarticulation in the execution and recognition of intentional actions</em></a>",
             "Frontiers in Psychology (Cognitive Science) 8:237. doi:10.3389/fpsyg.2017.00237",
             "23 February 2017 [<a href=\"http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00237/pdf\">pdf</a>] [<a href=\"http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00237/bibTex\">bib</a>]"
           ]
@@ -838,7 +838,7 @@
           "year": "2016",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Domenico Maisto, Giovanni Pezzulo.",
-            "<a href=\"http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004864\"><em>Problem solving as probabilistic inference with subgoaling: explaining human successes and pitfalls in the Tower of Hanoi</em></a>",
+            "<a href=\"https://doi.org/10.1371/journal.pcbi.1004864\"><em>Problem solving as probabilistic inference with subgoaling: explaining human successes and pitfalls in the Tower of Hanoi</em></a>",
             "PLoS Computational Biology<em>. </em>Volume 12, Issue 4 pp e100486.<em> </em>doi:10.1371/journal.pcbi.1004864",
             "13 April 2016 [<a href=\"http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004864.PDF\">pdf</a>] [<a href=\"http://journals.plos.org/ploscompbiol/article/citation/bibtex?id=10.1371%2Fjournal.pcbi.1004864\">bib</a>] [<a href=\"https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/code/hanoi_subgoals.tar\">code</a>]"
           ]
@@ -848,7 +848,7 @@
           "year": "2016",
           "paragraphs": [
             "Domenico Maisto, <strong>Francesco Donnarumma</strong>, Giovanni Pezzulo.",
-            "<a href=\"http://www.mdpi.com/1099-4300/18/2/61\"><em>Nonparametric Problem-Space Clustering: Learning Efficient Codes for Cognitive Control Tasks</em></a><em>. </em>",
+            "<a href=\"https://doi.org/10.3390/e18020061\"><em>Nonparametric Problem-Space Clustering: Learning Efficient Codes for Cognitive Control Tasks</em></a><em>. </em>",
             "Entropy. Volume 16, Issue 2, pp 61:1-25. Special Issue on Information Theoretic Incentives for Cognitive Systems. doi:10.3390/e18020061",
             "19 February 2016 [<a href=\"http://www.mdpi.com/1099-4300/18/2/61/pdf\">pdf</a>] [bib]"
           ]
@@ -858,8 +858,8 @@
           "year": "2016",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Roberto Prevete, Andrea de Giorgio, Guglielmo Montone, Giovanni Pezzulo.",
-            "<a href=\"http://adb.sagepub.com/content/24/1/27\"><em>Learning programs is better than learning dynamics:</em></a>",
-            "<a href=\"http://adb.sagepub.com/content/24/1/27\"><em>a Programmable Neural Network Hierarchical Architecture in a multi-task Scenario</em></a>",
+            "<a href=\"https://doi.org/10.1177/1059712315609412\"><em>Learning programs is better than learning dynamics:</em></a>",
+            "<a href=\"https://doi.org/10.1177/1059712315609412\"><em>a Programmable Neural Network Hierarchical Architecture in a multi-task Scenario</em></a>",
             "Adaptive Behavior. Volume 24 Issue 1 pages 27-51. doi:10.1177/1059712315609412",
             "01 February 2016 [<a href=\"https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=6954948d-4479-4d51-b4d5-b0e75b83d606\">pdf</a>] [<a href=\"http://adb.sagepub.com/citmgr?type=bibtex&amp;gca=spadb%3B1059712315609412v1\">bib</a>]"
           ]
@@ -869,7 +869,7 @@
           "year": "2015",
           "paragraphs": [
             "Matteo Candidi, Arianna Curioni, <strong>Francesco Donnarumma</strong>, Lucia Maria Sacheli, Giovanni Pezzulo<strong>.</strong>",
-            "<a href=\"http://rsif.royalsocietypublishing.org/content/12/110/20150644\"><em>Interactional Leader-Follower sensorimotor communication strategies during repetitive joint actions</em></a>",
+            "<a href=\"https://doi.org/10.1098/rsif.2015.0644\"><em>Interactional Leader-Follower sensorimotor communication strategies during repetitive joint actions</em></a>",
             "Journal of the Royal Society Interface. Volume 12, Issue 110, pages 1-12. doi:10.1098/rsif.2015.0644",
             "02 September 2015 [pdf] [bib]"
           ]
@@ -879,7 +879,7 @@
           "year": "2015",
           "paragraphs": [
             "Haris Dindo, <strong>Francesco Donnarumma</strong>, Fabian Chersi, Giovanni Pezzulo<strong>.</strong>",
-            "<a href=\"http://link.springer.com/10.1007/s00422-015-0654-6\"><em>The Intentional Stance as Structure Learning: A Computational Perspective on Mindreading</em></a>",
+            "<a href=\"https://doi.org/10.1007/s00422-015-0654-6\"><em>The Intentional Stance as Structure Learning: A Computational Perspective on Mindreading</em></a>",
             "Biological Cybernetics. Volume 109, Issue 4, pages 453-467. doi:10.1007/s00422-015-0654-6",
             "01 October 2015 [pdf] [<a href=\"http://link.springer.com/export-citation/article/10.1007/s00422-015-0654-6\">bib</a>]"
           ]
@@ -899,7 +899,7 @@
           "year": "2015",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Roberto Prevete, Fabian Chersi, Giovanni Pezzulo<strong>.</strong>",
-            "<a href=\"http://www.worldscientific.com/doi/pdf/10.1142/S0129065715500173\"><em>A Programmer-Interpreter neural network architecture for prefrontal cognitive control</em></a>",
+            "<a href=\"https://doi.org/10.1142/S0129065715500173\"><em>A Programmer-Interpreter neural network architecture for prefrontal cognitive control</em></a>",
             "International Journal of Neural Systems, Volume 25, Issue 6, pp 1550017. doi:10.1142/S0129065715500173",
             "01 September 2015 [pdf] [<a href=\"http://www.worldscientific.com/action/showCitFormats?href=%2Fdoi%2Fabs%2F10.1142%2FS0129065715500173&amp;title=A+Programmer%E2%80%93Interpreter+Neural+Network+Architecture+for+Prefrontal+Cognitive+Control%29&amp;doi=10.1142%2FS0129065715500173\">bib</a>]"
           ]
@@ -909,7 +909,7 @@
           "year": "2015",
           "paragraphs": [
             "Domenico Maisto<strong>, Francesco Donnarumma</strong>, Giovanni Pezzulo<strong>.</strong>",
-            "<a href=\"http://rsif.royalsocietypublishing.org/content/12/104/20141335\"><em>Divide et Impera: subgoaling reduces the complexity of probabilistic inference and problem solving</em></a>",
+            "<a href=\"https://doi.org/10.1098/rsif.2014.1335\"><em>Divide et Impera: subgoaling reduces the complexity of probabilistic inference and problem solving</em></a>",
             "Journal of the Royal Society Interface, Volume 12, Issue 104, Pages 1-13. doi:10.1098/rsif.2014.1335",
             "04 February 2015 [<a href=\"https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2014.1335\">pdf</a>] [bib]"
           ]
@@ -919,7 +919,7 @@
           "year": "2015",
           "paragraphs": [
             "Giovanni Pezzulo, <strong>Francesco Donnarumma</strong>, Pierpaolo Iodice, Roberto Prevete, Haris Dindo.",
-            "<a href=\"http://dx.doi.org/10.1016/j.plrev.2015.01.021\"><em>The role of synergies within generative models of action execution and recognition: A computational perspective</em></a>",
+            "<a href=\"https://doi.org/10.1016/j.plrev.2015.01.021\"><em>The role of synergies within generative models of action execution and recognition: A computational perspective</em></a>",
             "Physics of Life Reviews. Volume 12, Pages 114\u2013117. doi:10.1016/j.plrev.2015.01.021",
             "01 March 2015",
             "[pdf] [bib]"
@@ -930,7 +930,7 @@
           "year": "2013",
           "paragraphs": [
             "Giovanni Pezzulo, <strong>Francesco Donnarumma</strong>, Haris Dindo.",
-            "<a href=\"http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079876\"><em>Human Sensorimotor Communication: A Theory of Signaling in Online Social Interactions</em></a>",
+            "<a href=\"https://doi.org/10.1371/journal.pone.0079876\"><em>Human Sensorimotor Communication: A Theory of Signaling in Online Social Interactions</em></a>",
             "PLoS ONE vol. 8 (11):e79876 doi:10.1371/journal.pone.0079876",
             "20 November 2013",
             "[<a href=\"http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0079876&amp;representation=PDF\">pdf</a>] [<a href=\"http://www.plosone.org/article/getBibTexCitation.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0079876\">bib</a>] [<a href=\"https://www.scopus.com/record/display.uri?eid=2-s2.0-84894254639&amp;origin=resultslist&amp;sort=plf-f&amp;cite=2-s2.0-84894254639&amp;src=s&amp;imp=t&amp;sid=8ABB3B8B72A91193612CB29E76E1A19F.Vdktg6RVtMfaQJ4pNTCQ%3a110&amp;sot=cite&amp;sdt=a&amp;sl=0&amp;recordRank=\">scopus</a>] [<a href=\"http://apps.webofknowledge.com/full_record.do?product=WOS&amp;search_mode=DaisyOneClickSearch&amp;qid=24&amp;SID=X1dh1JxrVwUxBPWsCjM&amp;page=1&amp;doc=9\">wos</a>]"
@@ -951,7 +951,7 @@
           "year": "2013",
           "paragraphs": [
             "Fabian Chersi, <strong>Francesco Donnarumma</strong>, Giovanni Pezzulo.",
-            "<a href=\"http://dx.doi.org/doi:10.1177/1059712313488789\"><em>Mental imagery in the navigation domain: a computational model of sensory-motor simulation mechanisms</em></a>",
+            "<a href=\"https://doi.org/10.1177/1059712313488789\"><em>Mental imagery in the navigation domain: a computational model of sensory-motor simulation mechanisms</em></a>",
             "Adaptive Behavior vol. 21 (4), pages 251-262, doi:10.1177/1059712313488789.",
             "15 July 2013.",
             "[<a href=\"https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=f6fdab25-f672-4194-91e8-65d9a1e65207\">pdf</a>] [<a href=\"http://adb.sagepub.com/citmgr?type=bibtex&amp;gca=spadb%3B21%2F4%2F251\">bib</a>]"
@@ -972,7 +972,7 @@
           "year": "2012",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Vincenzo Lippiello and Matteo Saveriano.",
-            "<a href=\"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6385511\"><em>Fast Incremental Clustering and Representation of a 3D Point Cloud Sequence with Planar Regions</em></a>",
+            "<a href=\"https://doi.org/10.1109/IROS.2012.6385511\"><em>Fast Incremental Clustering and Representation of a 3D Point Cloud Sequence with Planar Regions</em></a>",
             "IROS 2012, International Conference on Intelligent Robots and Systems, pp. 3475-3480, ISSN: 2153-0858. doi:10.1109/IROS.2012.6385511, ISBN:978-1-4673-1737-5, Vilamoura, Algarve, Portugal.",
             "07-12 October 2012 [<a href=\"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6385511\">pdf</a>] [<a href=\"http://dblp.uni-trier.de/rec/bibtex/conf/iros/DonnarummaLS12\">bib</a>]"
           ]
@@ -982,7 +982,7 @@
           "year": "2012",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Roberto Prevete and Giuseppe Trautteur",
-            "<a href=\"http://www.tandfonline.com/doi/abs/10.1080/09540091.2012.684670\"><em>Programming in the Brain: a Neural Network theoretical framework</em></a>",
+            "<a href=\"https://doi.org/10.1080/09540091.2012.684670\"><em>Programming in the Brain: a Neural Network theoretical framework</em></a>",
             "Connection Science, Volume 24 Issue 2-3, pages 71-90, doi:10.1080/09540091.2012.684670",
             "08 May 2012 [<a href=\"https://www.tandfonline.com/doi/epdf/10.1080/09540091.2012.684670?needAccess=true&amp;role=button\">pdf</a>] [<a href=\"http://dblp.uni-trier.de/rec/bibtex/journals/connection/DonnarummaPT12\">bib</a>]"
           ]
@@ -992,7 +992,7 @@
           "year": "2012",
           "paragraphs": [
             "Giovanni Pezzulo, Francesco Rigoli, <strong>Francesco Donnarumma</strong>, and Fabian Chersi.",
-            "<a href=\"https://www.frontiersin.org/10.3389/conf.fnins.2012.86.00014/event_abstract\"><em>Hippocampal forward sweeps and the balance of goal-directed and habitual controllers: a Bayesian approach</em></a>",
+            "<a href=\"https://doi.org/10.3389/conf.fnins.2012.86.00014\"><em>Hippocampal forward sweeps and the balance of goal-directed and habitual controllers: a Bayesian approach</em></a>",
             "Neural Coding, Decision-Making and Integration in Time, Frontiers in Neuroscience doi:10.3389/conf.fnins.2012.86.00014",
             "2012 [pdf] [bib]"
           ]
@@ -1012,7 +1012,7 @@
           "year": "2011",
           "paragraphs": [
             "Guglielmo Montone, <strong>Francesco Donnarumma</strong>, and Roberto Prevete",
-            "<a href=\"http://link.springer.com/chapter/10.1007%2F978-3-642-20282-7_26\"><em>A Robotic scenario for programmable fixed-weight Neural Networks exhibiting multiple behaviors</em></a>",
+            "<a href=\"https://doi.org/10.1007/978-3-642-20282-7_26\"><em>A Robotic scenario for programmable fixed-weight Neural Networks exhibiting multiple behaviors</em></a>",
             "Adaptive and Natural Computing Algorithms, Volume 6593, pp 250-259. Lecture Notes in Computer Science, Springer Berlin/Heidelberg doi:10.1007/978-3-642-20282-7_26 in the 10th International Conference, ICANNGA 2011, Ljubljana, Slovenia, Part I",
             "14-16 April 2011 [pdf] [bib]"
           ]
@@ -1032,7 +1032,7 @@
           "year": "2010",
           "paragraphs": [
             "<strong>Francesco Donnarumma</strong>, Roberto Prevete and Giuseppe Trautteur.",
-            "<a href=\"http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=7916523\"><em>How and over what timescales does neural reuse actually occur?</em></a>",
+            "<a href=\"https://doi.org/10.1017/S0140525X10001184\"><em>How and over what timescales does neural reuse actually occur?</em></a>",
             "Behavioral and Brain Sciences, Volume 33 Issue 04 pp. 272-273, doi:10.1017/S0140525X10001184",
             "22 October 2010 [pdf] [bib]"
           ]
@@ -1042,7 +1042,7 @@
           "year": "2010",
           "paragraphs": [
             "Giovanni Tessitore, <strong>Francesco Donnarumma</strong> and Roberto Prevete",
-            "<em>An action tuned Neural Network Architecture for hand pose estimation</em>",
+            "<a href=\"https://doi.org/10.5220/0003086403580363\"><em>An action tuned Neural Network Architecture for hand pose estimation</em></a>",
             "International Conference on Neural Computation - ICNC 2010, Valencia, Spain",
             "24-26 October, 2010 [pdf] [<a href=\"http://dblp.uni-trier.de/rec/bibtex/conf/ijcci/TessitoreDP10\">bib</a>]"
           ]
@@ -1063,7 +1063,7 @@
           "year": "2010",
           "paragraphs": [
             "Pasquale Arpaia, <strong>Francesco Donnarumma</strong>, Sabato Manfredi, Carlo Manna.",
-            "<a href=\"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=5634182&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5634182\">Model Predictive Control Strategy Based on Differential Discrete Particle Swarm Optimization</a>",
+            "<a href=\"https://doi.org/10.1109/EESMS.2010.5634182\">Model Predictive Control Strategy Based on Differential Discrete Particle Swarm Optimization</a>",
             "IEEE Workshop on Environmental, Energy, and Structural Monitoring Systems (EESMS), pp 70-73, ISBN: 978-1-4244-6274-2, doi:10.1109/EESMS.2010.5634182 Taranto, Italy",
             "09 September 2010 [pdf] [<a href=\"https://sites.google.com/site/francescodonnarumma/files/donnarumma10model.bib\">bib</a>]"
           ]
@@ -1083,7 +1083,7 @@
           "year": "2008",
           "paragraphs": [
             "Ivanoe De Falco, Antonio Della Cioppa, <strong>Francesco Donnarumma</strong>, Domenico Maisto, Roberto Prevete, Ernesto Tarantino.",
-            "<a href=\"http://ebooks.iospress.nl/volumearticle/4498\"><em>CTRNN parameter leaning using Differential Evolution</em></a>",
+            "<a href=\"https://doi.org/10.3233/978-1-58603-891-5-783\"><em>CTRNN parameter leaning using Differential Evolution</em></a>",
             "Frontiers in Artificial Intelligence and Applications, Volume 178, pp 783-784, doi:10.3233/978-1-58603-891-5-783 - ECAI 2008, 18th European Conference on Artificial Intelligence, Patras, Greece: IOS Press.",
             "21-25 July 2008 [pdf] [<a href=\"https://sites.google.com/site/francescodonnarumma/donnarumma08using.bib\">bib</a>]"
           ]
