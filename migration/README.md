@@ -7,10 +7,11 @@ Proprietario dei CV e del sito: **Francesco Donnarumma**.
 
 - Repository clonato in `CurriculumVitae/Website`, da `donnarumma/donnarumma.github.io`.
 - Versione locale costruita e separata dal Git del CV.
-- Il 2026-09-15 l'autore ha richiesto commit e push della prima versione completa
-  nel repository GitHub. Lo storico Git identifica i commit caricati.
+- Prima versione completa caricata il 2026-09-15, commit `8c65efd`.
+- GitHub Pages era gia' abilitato: il deploy automatico esistente ha pubblicato
+  questa versione su `https://donnarumma.github.io/` dopo il push.
 - Nessuna modifica a Google Sites, impostazioni Pages, dominio, redirect o DNS.
-- Workflow di pubblicazione preparato con avvio esclusivamente manuale.
+- Workflow alternativo di pubblicazione preparato con avvio manuale, non eseguito.
 - Indicizzazione disabilitata nella copia locale/staging (`allow_indexing: false`).
 
 ## Rifiniture Del 2026-09-15
@@ -23,8 +24,10 @@ Proprietario dei CV e del sito: **Francesco Donnarumma**.
   2026-09-09. Il confronto SHA-256 conferma che il PDF gia' presente era identico;
   aggiornato il registro [cv-snapshot.json](cv-snapshot.json). Non e' stata avviata
   una nuova compilazione o modificato il CV canonico.
-- Caricamento dei file nel solo repository Website, senza avviare il workflow
-  di deploy e senza modificare dominio, Google Sites o repository del CV.
+- Caricamento dei file nel solo repository Website, senza avviare manualmente
+  il workflow alternativo e senza modificare dominio, Google Sites o repository
+  del CV. Il deploy automatico preesistente e' terminato con successo:
+  [esecuzione GitHub](https://github.com/donnarumma/donnarumma.github.io/actions/runs/34953271002).
 
 ## Copertura
 
@@ -107,8 +110,8 @@ Questa e' una procedura da eseguire **dopo approvazione**, non un'operazione gia
 effettuata. Non cambiare i record della posta elettronica.
 
 1. Revisionare i file e fare commit/push nel repository `Website`, non nel Git
-   del CV. Attivare Pages con sorgente "GitHub Actions" e avviare manualmente
-   il workflow. Verificare prima `https://donnarumma.github.io/`.
+   del CV. La configurazione Pages esistente pubblica automaticamente gli
+   aggiornamenti: verificare prima `https://donnarumma.github.io/`.
 2. Per il passaggio definitivo, verificare la proprieta' del dominio su GitHub
    e configurare il custom domain nelle impostazioni Pages **prima** di cambiare
    i DNS. Per il sottodominio `www`, la destinazione CNAME e'
@@ -119,8 +122,11 @@ effettuata. Non cambiare i record della posta elettronica.
    ricostruire e pubblicare. Verificare HTTPS, vecchi percorsi, CV e BibTeX.
 4. Conservare temporaneamente il Google Site per confronto e possibile rollback.
 
-Il workflow con Actions non necessita di un file `CNAME` nel repository; il
-dominio e' configurato nelle impostazioni Pages. Riferimenti ufficiali consultati
+Prima del cambio di dominio verificare la sorgente di pubblicazione nelle
+impostazioni Pages. Se si pubblica da branch, il file `CNAME` aggiunto da GitHub
+va conservato e sincronizzato; con un workflow Actions personalizzato non e'
+necessario. Il dominio si configura nelle impostazioni Pages.
+Riferimenti ufficiali consultati
 il 2026-09-14: [workflow Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
 e [gestione del dominio](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
@@ -150,7 +156,8 @@ python3 tools/browser_check.py
 Gli asset Google sono stati letti dalla cache di un Chromium dedicato, perche'
 il download diretto restituiva 403. Sorgenti HTML e cache in `.local/`, esclusi
 da Git; [assets.json](assets.json) conserva la provenienza dei file trasferiti.
-Il workflow remoto non e' stato eseguito e non e' stato usato `overpush`.
+Il workflow manuale predisposto non e' stato eseguito e non e' stato usato
+`overpush`. Il deploy automatico Pages gia' esistente e' invece partito al push.
 
 ## Comandi Git Del 2026-09-15
 

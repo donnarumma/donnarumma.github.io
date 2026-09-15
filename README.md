@@ -82,14 +82,17 @@ disponibilita' attuale di tutti i vecchi link verso editori e servizi esterni.
 
 ## Pubblicazione
 
-Il codice e' versionato nel repository GitHub indicato sopra. La pubblicazione
-del **sito su GitHub Pages non e' stata attivata**: caricare i file su GitHub
-e avviare il deploy sono due operazioni distinte. Google Sites e DNS restano
-invariati. Nessun dominio personalizzato e' stato attivato.
+Prima versione completa caricata il 2026-09-15, commit `8c65efd`.
+**GitHub Pages era gia' attivo** sul repository: il deploy automatico esistente
+ha pubblicato il sito su <https://donnarumma.github.io/> dopo il push.
+Non sono state modificate le impostazioni Pages, Google Sites o DNS.
+Il dominio personale resta invariato.
 
-Il workflow [Publish Website (Manual)](.github/workflows/pages.yml) si avvia
-soltanto manualmente, non a ogni push. Pubblica solo HTML e `assets`, non i
-sorgenti, le note di migrazione o la cache locale.
+Il workflow alternativo [Publish Website (Manual)](.github/workflows/pages.yml)
+e' predisposto ma non e' stato eseguito. Se adottato come sorgente di
+pubblicazione, carica solo HTML e `assets`, escludendo sorgenti e note.
+La configurazione Pages attualmente esistente aggiorna invece il sito dopo
+il push; `.local/` e `_site/` non sono comunque presenti nel repository remoto.
 
 Procedura e punti da rivedere prima del passaggio:
 [migration/README.md](migration/README.md).

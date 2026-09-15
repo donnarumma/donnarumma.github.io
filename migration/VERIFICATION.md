@@ -12,8 +12,9 @@ Eseguita il 2026-09-14 sulla copia locale, senza pubblicare il sito.
   `DONNARUMMA_CV.pdf` compilato nella cartella principale.
 - Font, immagini, ricerca e filtri offline verificati; nessun errore JavaScript
   o richiesta HTTP/HTTPS originata dalle pagine durante i test.
-- Caricamento nel repository GitHub richiesto dall'autore; nessun avvio del
-  workflow di deploy o modifica del dominio durante questo aggiornamento.
+- Prima versione completa caricata nel repository GitHub, commit `8c65efd`.
+  Il deploy automatico Pages gia' presente e' terminato con successo. Nessun
+  avvio manuale del workflow alternativo o modifica di dominio/impostazioni Pages.
 
 ## Esito
 
