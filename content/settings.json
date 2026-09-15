@@ -1,0 +1,32 @@
+{
+  "public_url": "https://donnarumma.github.io",
+  "allow_indexing": false,
+  "email": "francesco.donnarumma@istc.cnr.it",
+  "affiliation": "Institute of Cognitive Sciences and Technologies, National Research Council (ISTC-CNR)",
+  "location": "Rome, Italy",
+  "cv": "assets/downloads/francesco-donnarumma-cv.pdf",
+  "bibtex": "assets/downloads/donnarumma.bib",
+  "profile_updates": {
+    "ISTC-CNR": "https://www.istc.cnr.it/en/people/francesco-donnarumma",
+    "DBLP": "https://dblp.org/pid/51/5522.html",
+    "LinkedIn": "https://www.linkedin.com/in/francesco-donnarumma/",
+    "X / Twitter": "https://x.com/FranDonnarumma"
+  },
+  "archived_profiles": ["X / Twitter", "LinkedIn"],
+  "additional_profiles": [
+    {
+      "label": "OpenAlex",
+      "url": "https://openalex.org/authors/A5048689229",
+      "group": "academic",
+      "image": {
+        "src": "assets/images/profile-openalex.png",
+        "alt": "OpenAlex",
+        "width": 526,
+        "height": 526
+      }
+    },
+    {"label": "WSocial", "url": "https://wsocial.eu/profile/fran-donnarumma.wsocial.eu", "group": "social"},
+    {"label": "Substack", "url": "https://substack.com/@donnarummafrancesco", "group": "social"},
+    {"label": "Instagram", "url": "https://www.instagram.com/francesco___donnarumma/", "group": "social"}
+  ]
+}

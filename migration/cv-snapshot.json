@@ -1,0 +1,15 @@
+{
+  "copied_on": "2026-09-15",
+  "files": [
+    {
+      "source": "DONNARUMMA_CV.pdf",
+      "destination": "assets/downloads/francesco-donnarumma-cv.pdf",
+      "sha256": "203f57f10aa8df3fb4a3cdc05b410c325ae1bfc0d971d51284e1e5d960dded2b"
+    },
+    {
+      "source": "donnarumma.bib",
+      "destination": "assets/downloads/donnarumma.bib",
+      "sha256": "e88c7a6427c6d90d2251da1c53499668533ecb79c80411c48d1eb1167549ea9f"
+    }
+  ]
+}

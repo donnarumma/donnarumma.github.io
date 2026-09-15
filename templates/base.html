@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="$description">
+  <meta name="robots" content="$robots">
+  <meta name="theme-color" content="#252928">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="$title">
+  <meta property="og:description" content="$description">
+  <meta property="og:url" content="$canonical">
+  <meta property="og:image" content="$social_image">
+  <title>$title</title>
+  <link rel="canonical" href="$canonical">
+  <link rel="icon" href="$favicon">
+  <link rel="stylesheet" href="${prefix}assets/css/site.css">
+  <style>body { background-image: url('$background'); } .page-banner, .name-banner, .page-links { background-image: url('$banner'); }</style>
+  <script defer src="${prefix}assets/vendor/lucide.min.js"></script>
+  <script defer src="${prefix}assets/js/search-index.js"></script>
+  <script defer src="${prefix}assets/js/site.js"></script>
+</head>
+<body data-page="$page" data-prefix="$prefix">
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header" id="top">
+    <div class="topbar">
+      <a class="brand" href="${prefix}index.html"><img src="$favicon" alt="" width="24" height="24"><span>Francesco Donnarumma</span></a>
+      <div class="navigation-tools">
+        <nav aria-label="Main navigation" id="navigation">$navigation</nav>
+        <button class="icon-button search-toggle" type="button" data-search-open title="Search this site" aria-label="Search this site" hidden><i data-lucide="search" aria-hidden="true"></i></button>
+        <button class="icon-button menu-toggle" type="button" data-menu-toggle aria-label="Open navigation" aria-expanded="false" aria-controls="navigation" hidden><i data-lucide="menu" aria-hidden="true"></i></button>
+      </div>
+    </div>
+    <div class="profile-strip" aria-label="Academic and public profiles">$profiles</div>
+  </header>
+  <main id="main">$body</main>
+  <footer class="site-footer">
+    <div class="content-width footer-inner"><span>Francesco Donnarumma</span><nav aria-label="Footer"><a href="$cv">Curriculum Vitae</a><a href="${prefix}contacts/index.html">Contacts</a><a class="icon-button" href="#top" title="Back to top" aria-label="Back to top"><i data-lucide="arrow-up" aria-hidden="true"></i></a></nav></div>
+  </footer>
+  <dialog class="search-dialog" aria-labelledby="search-heading">
+    <div class="dialog-heading"><h2 id="search-heading">Search</h2><button class="icon-button" type="button" data-search-close title="Close search" aria-label="Close search"><i data-lucide="x" aria-hidden="true"></i></button></div>
+    <form role="search" class="site-search"><label for="site-query" class="sr-only">Search this site</label><input id="site-query" name="q" type="search" autocomplete="off" placeholder="Search this site"><button class="icon-button" type="submit" title="Search" aria-label="Search"><i data-lucide="search" aria-hidden="true"></i></button></form>
+    <p class="search-status" role="status"></p><ol class="search-results"></ol>
+  </dialog>
+</body>
+</html>

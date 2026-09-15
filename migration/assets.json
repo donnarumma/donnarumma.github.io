@@ -1,0 +1,404 @@
+[
+  {
+    "src": "assets/images/profile-openalex.png",
+    "alt": "OpenAlex",
+    "width": 526,
+    "height": 526,
+    "source": "https://raw.githubusercontent.com/ourresearch/openalex-gui/master/public/brand-assets/openalex-mark-white.png",
+    "reference": "https://blog.openalex.org/a-new-logo-for-openalex/",
+    "retrieved_on": "2026-09-15",
+    "sha256": "b2605109a461b6aac1d2c6519b72439da902ee095105b1029a9c16a95951cc7e",
+    "bytes": 11211,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/angel-background.jpg",
+    "alt": "angel background",
+    "width": 333,
+    "height": 447,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWtXArtJ40QZZrbzvUXiIQN0jbeB0Resso-gW6zR5aRf8r4PjKv5ooQSV2xBQXjEl7pW1S23M-NFF1kyvnS2wZc0IqhFEiVbXwO4cNoWMBGGr954OaKeRbxbShhq33yOdYSnx42Zls1hMUVoQm-0EsaMervFOhfhniKU6GdPCurot543d7deSga-YfV=w16383",
+    "sha256": "0c63c01e8e6e5554da263bf85bc47d696ab542a417702f85558f4d7d3ca19aef",
+    "bytes": 27034,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/shoreline-banner.jpg",
+    "alt": "shoreline banner",
+    "width": 2560,
+    "height": 1707,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXzAxguG3eXyVwD4aFZwkz8ZMl1e36Xd9UL76aD4oBXWpPR3VT1WOm40r1gkfnFrRA2lybRJlo4mUNQ9N53w7n3wOuBp8lmhw4C8gOOSQlTxkzEYDvy0bkRAj_-2E7k6RfgO8RsRx6sYyqCY4cCVJ6RozRqMoClQZJKL8Pv_oRqKJNdt-Ir6hayruvX=w16383",
+    "sha256": "9bd793d4c5520f549fe7e1b821ee3d89d16612c5a88219c6a88565d2865ccf66",
+    "bytes": 205326,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/site-logo.gif",
+    "alt": "site logo",
+    "width": 16,
+    "height": 16,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUgSFXuXVMBAksxt703j8y2rTkaGajNtxbJUj-MSAZcuR7S8sAz7g2sk-wLsp7AjdHdOrfsTZNR8C8x7nEpcSefrteoAbp_Fb0InYlcqOF-OYY1Fn0EfPs4tT_qn5qLE9pU-cAJzjp5pFDxz_Q9GBPrZdiAW0UuHWgsLUqpNR4SFAsfa18cVTZneBvj=w16383",
+    "sha256": "4387ed0629311f9bf2ddc0e072b8674d3400d31589d4d37cfcb9353a9797dcff",
+    "bytes": 23421,
+    "frames": 161
+  },
+  {
+    "src": "assets/images/profile-istc-cnr.jpg",
+    "alt": "ISTC-CNR",
+    "width": 649,
+    "height": 649,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWf8HYl1Xb3j53pGni1DS5tMaEVWAEx90Zf9u7mqJaYfVW8wtg2cKmYCUjXjo47xQAUBJTXXODm2dHShlMQk8Kic_x79PmxwJbwF_398PiatMiELygmalIGpSeWggbcxyPdM27UVEawKV_Ee08dXzlBcdWVCKUAH3t8Mh5BU13guYr_PsOzb0BIVHny3VIcKsUiUmvSCtMDT8Mkr0D-qrozRxB_ML9X14lo5ws1=w1280",
+    "sha256": "789eebc5f404fadf4fd0fd8c235b2567ee38cc79b650cd2f8ea11f9c456d9845",
+    "bytes": 111947,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-scopus.png",
+    "alt": "Scopus",
+    "width": 1080,
+    "height": 614,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAeci7uif2dwpIuYA6adCZ3N-MuahGyQbATM_MDMPHF-J3CWlM-ETSvDNzpy2zW-ousN92qnOCKi1LvI22Iq8F5ZEuwGJYsCUHOwvOvuX-dE7Ya2LAnuDGYPlsmGjK1sYdQ2oRXH-p-2olszyEWZZHGPC0MEUsV046pwZj8cbp0jtBh4wpjVf2pSGPeTJyo1g6q_DBxsWw0JDY4rfum-iy56LOdgR1BHHYv7CpEk8=w1280",
+    "sha256": "1f048825bf0c23a2704ab67014680cb040a830133e3348d5f171123304d380df",
+    "bytes": 82469,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-google-scholar.png",
+    "alt": "Google Scholar",
+    "width": 1280,
+    "height": 894,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVsgjvj0cFOBl2Buy-XvI6n04_1ElhJ6K82IiaHXv9E2dpyrjtTPM-mED4GPS4WjZV30s1tSVkYLV_LiwmuW6rkxOVa8zI3xibK4Mf_052Gt2b70juLT4rbe7l5ZKUQg3VgULLm_G3Z0KZC1JToCn5tS8jXjCKHYqkqGz3R7G41-bNEtEUpNGJtTk_KNbvNBHNWmt2kZDepkm8rjEobHJrL2SBGH4IOQK_vrGSwNPY=w1280",
+    "sha256": "21271ec99160b3a00b7a909172668c4e29b1ef6fa6133d4f0a95404c70e9379c",
+    "bytes": 57783,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-web-of-science.png",
+    "alt": "Web of Science",
+    "width": 487,
+    "height": 508,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN32qCqmPQp3ZSJs8eclAdxWQLAgtuDpnOuwYPXnqqI8knR93MoaDkKI48tTyHF98FP6fO83ozHO3je8xd5Zt3v0GhrCpVHC7_AHu90V5TNZdLW2uv-EKhsStiEffDGtp8blXhlHdWNrq_Kav8eppMhJfdmCVaQnf22BJsD6Uh8S74FCD2skGdwSgMUR6X55jaE0IFVaKb6Iz_PQI3PnQQuRamicpOo55LoJHjq1A=w1280",
+    "sha256": "62340fa53aa4470358e0c6ef6bbbe2a2c67d6f61137a10d45a39d1e7e5788940",
+    "bytes": 150702,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-orcid.png",
+    "alt": "ORCID",
+    "width": 149,
+    "height": 175,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXMgi4HRnOs_Q12y5PSNdoKfgcqJvUH3J5d4gMjTzB92VzF8mc7BDVX8J3EHn5Ha7d-wmzBNyAG3Cyvy9SABpajEP1fpKPpH5RtSXfYK7DnjuXaUqnyEyDGo1rYA9sC1vtWkeq2G6BQ8ucst09RgLIWM9zOT5xBNYM22HRW6oQCEJQ4EvbNJNo1lbV7QUPDwN7eqbfj6b_uWRhTSgixTom_7j7bRYaMZQWb5QUe=w1280",
+    "sha256": "c7d0eb9ef20b4144593a5f5d47993f8de941ba6f8eb26f720dac03c451c51042",
+    "bytes": 19367,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-dblp.png",
+    "alt": "DBLP",
+    "width": 536,
+    "height": 526,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVH4zOqLxdtqqYxAAHqOpWmZPTYkn-hCH4BpxpXknFdbKfSEVx3Jw6099xBnxl3m1WLBtK2wYMqWgwcJ7YCLrk4X5l78IRtS8HNWGWAbwbmHOGqpGCMJFjD8r8NfyfWiJNK1-U7VByrRZQNVo2KMmex7ihrvqvUWS9QezgEEjIEISfFGFqZA0x_K3FeFXmHUXaOpAaCRHCR8sohdhQ=w1280",
+    "sha256": "b7c5fb9ba6b77c212472cb7a75bb6c99e7c99e231c51ab2c0ec293969d888c90",
+    "bytes": 22928,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-researchgate.png",
+    "alt": "ResearchGate",
+    "width": 401,
+    "height": 394,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXAFR4VAaz5UuQ587LtnsFpx5AxveLvlvgCCVo_nUeO5GgIDgcqPLujZCbDXpN7l1G0hMWKW0_3oKDF_fWHFEgkZHzoEaIET8cAhO7Rh1L2i2u7N2mi5St7cPR3YSjt8tqHeAf5rXpFb_vdxKhqgC8Ui-hxxAn4a-b_IgND5qmmZ_83PUMGDoW4k4dwGHrHbSn3nESc8r9K9RfgE6A=w1280",
+    "sha256": "87f15fa6d0cc80892e6176491eb19d367e893a9bf0bef27db935afcc757c9add",
+    "bytes": 65502,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-academia-edu.png",
+    "alt": "Academia.edu",
+    "width": 512,
+    "height": 512,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVhk5lA4gO2mWQJdC7oRZtzrlVlSMb56ZOwghdRuWVPFYxgOIPPTfQCM9CAvN7PzFwNHScZTAUMBhG54s7mO5CwZi2N0SeM7pB7OOftjHthmY_csKXCBY-BPVmN70-pAIaj5atDsITcg84Yi_ssuFZD0PDH0TIeoGgdtYo=w1280",
+    "sha256": "598e3a6893110d372b530a1171ccc33b55c1b57958736d42b1c7b2f72c15869f",
+    "bytes": 91785,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-mastodon.png",
+    "alt": "Mastodon",
+    "width": 496,
+    "height": 512,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUs6dx9ZcBdYQf0S5C0pavr-BiU8dMhpsfOM1TTleHgz34KhyCY2IVguZFsSm4kGzUsm4ItZv_su_avYI0hmHIWj16OND2iKHfyfXEC2E3U5E_NvzXvZx7g8cz0Tp_6GN6Ut-esdJCxS8G4qaNJEMUzt36LS9FO7i28Dvrk8DGJRiC-qgC7gyFeIh_O8MkIfW1YK6ZzIiy9SzTK03IV_a_YcVmhYJp7yzAgHpLX=w1280",
+    "sha256": "5c1bffad28326bddca5279e7d8f3e3e164a922da27e3891390e57adfc7dd3624",
+    "bytes": 19586,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-x-twitter.png",
+    "alt": "X / Twitter",
+    "width": 612,
+    "height": 599,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQW71Q1M8WouX0dnlHUGuySPdkiM77k3vkJ-CpfUfjtuCUsSgtd9Q8Mbna1AEP9m0S51P6ZmH6sFEPcsuTcyPLLXl52I0k52mEmNhtM6scdy_B9AkzpKKN66cibBKdWI8qSdDuKxS2TiA9Y5PBsReW2n-EArJmxPHA0sS1O0mfSN04s4RA9-SWfO9LCMLPoK8xZYMf6A0K9mEfs6peA=w1280",
+    "sha256": "ace32eb07240d20367dfae0d8582e233c891117d1f0dbdba7934226e3a17d605",
+    "bytes": 136656,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-facebook.png",
+    "alt": "Facebook",
+    "width": 1280,
+    "height": 1280,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUlISZMAID8y4-tbntiOwd6iVgqBRdjSne75ZAVtC8Pgzlgv0kv46TiYf0A0-UfCqlNhVkq_pNd07mQ4lplWlyW9gt4qddsLUnv7uwt5hfRcPeUGFyBkMq5OAJclNaIZZcZi3H9STCLka4npmQsREkuVe8PekCQBwobN7E=w1280",
+    "sha256": "475efc9d012c093a84a3a49ba90c8f02476d5b23832adb23303a6714be7eeb4d",
+    "bytes": 106500,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/profile-linkedin.png",
+    "alt": "LinkedIn",
+    "width": 512,
+    "height": 512,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVx6ErsF7YzC54qcQPAsuMlJbL_zrtt6PJdRSbSyr8ABTIyTY8VZtLzs1yRPqk2sFJIBbFrJSo2cFvRNkejkG_ybNC0ozEYtgSl_hlxROdSRYN6XjqWrrfEwuHhGlGupNm-sRAjMcbEvlss6EiWy_cOK_jM1NLJWYf0UvI=w1280",
+    "sha256": "e54428e01cb1cb4f551a7fd1bf37bad2587f9302a90a75133e28133653fa076b",
+    "bytes": 19845,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/brain-animation.gif",
+    "alt": "Animated brain",
+    "width": 99,
+    "height": 90,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWZY1I4OoVBonLo7pBFfDnQ4LCNGGwF57Efg1XogfI4ZWG2VMwOudGpf1COn7dSIjeayL2Lg2QOeB_vydWdhWPQMmVJLseS8YMTrg7EDUYyBfRDQYXcAVL-kyosqcTDBY7lBJXyjhB95UzR5Pw27BWe8_J2LOt3RJRYw2PhQxhQeIkQhblx-fuJWct88lWa20RxnMCTlw12vQUHbhNEK12S4UBd4UnpAd1cPSwN=w1280",
+    "sha256": "219dd0aa8b89bc1810e7ccc5a19f8e755972e8cb944fe6f6df585a4846308f12",
+    "bytes": 191509,
+    "frames": 60
+  },
+  {
+    "src": "assets/images/letter-f-0.gif",
+    "alt": "F",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWEAuBHU2zK4ez9qzSUn8EPZtPW7lJx16pyJA3lRwY4zzVyw_CLHZWrFIcO07fsXZvvPRa0yfJMaci5uGxFcY2xynye5QYAJslP2I1EpRUP382RYhHo0a5dMveeeSOXmZtVuwa679vLpRkFSmfIKVvl8e8uejfMHTYNNGmIiHjXipznALzXkylspecXxuRkk4XyR4eLfzxsKoeWNCEYOyfAvNjGnkX_9Zz4XfDKWM4=w1280",
+    "sha256": "7f539bf43fb3b6f70fcbbe9362e320ce2dec7ccb14d60940eac9262b9f9544a1",
+    "bytes": 6956,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-r-1.gif",
+    "alt": "R",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUgigNTrGPJJoXtlosr0fEVir-ctl5B2mYXkID_ySLZeEgdrJ73O45DAzd9ssMaqwjvmwnUkzQOLqqVwCDXSjzKwUKfMqngCoGs7_771AqRPhmalbrX99WQ43WDY_XJxLLhIbj2ej-0s8j-q4rnTprGpE7IDid3xT0Gpz3oaMLEGe4h3RhnN1mZnr7btIy0qMPTBxjO2iyxv5yfRfU=w1280",
+    "sha256": "e3ab374e40042143e26c4169ba25e37ccae206c85c2c8f1a71e92aae93345f81",
+    "bytes": 5561,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-a-2.gif",
+    "alt": "A",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUb6S3QdOAPG1sbHx5JsMhBu8O-9YoSDhikAIo1wk7mjzAv87HNXpMg3S02zSZR6khrppMsghYz_GgrYp2OADTe0C2HbwTAT3kMR8b4FD8cCU7-ZZwR4zPwSF62S8sWw9YqRlMI85aFXJphMAZs-D9mTKmmXurjbL6DKHIAgFv_WgX87m4-tGN6Oi446D2haPDKclhQ4PWTdll-ic8=w1280",
+    "sha256": "5338ee743bf82d1dbeffe1fa35f068d74199bfb49acb596834c437c1aa7862ab",
+    "bytes": 3246,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-n-3.gif",
+    "alt": "N",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQV4QKpIszMPPxsXNBQOTcGWj-LW4XkscCsoJG3NY2Zwry8TUW7sfvbkdc05VSqVkxbewjMr2AnCl_u-CbMTPk3F5oWy2m3eRwBgkGcL6Id9SFU-16aw0SN2Rn3IWHWkcUASq7lt-3oL3OqnvJKPgLTp5f_6wZ0UEh0MibaeFCoYO-pXc1dMc04DZZZSPYsu5UCz1rnd_VRl-d4kLrA=w1280",
+    "sha256": "4253a7958309324a2e5fabbd3a20a799037100d96afbbf27f8b733d2e22dd1f7",
+    "bytes": 5987,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-c-4.gif",
+    "alt": "C",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXcp2mKQl815sg7BzFHz3Eza54FgDMGHuaFDitwgkOabPhkEqoatbrXOxQsg5Qz5VQCaMyrCMmLqHzvUA4T5iErOQQ_sARiw32HZVHj9FLq9X6vzqiPZh9ayhkxPxcqPA7XytW2TCH5jKgKD0tTyf5CZHudgUQgxvoDqciYt7iOPns9f6lITJpGAKQkbm4eRT8-rvdZKWH-fQS9qxI=w1280",
+    "sha256": "df0a76b877d35607031c4ba00369d444562137cb95f59f1d7748a0077050064c",
+    "bytes": 6219,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-e-5.gif",
+    "alt": "E",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXDS8WSXsTNNq3HyahWwMe1RloJ5ZaQu_rk-kMZFacWkeO8QJvUbCfR5U0-VEf1kBbD2m01BkrYUk-E6WJ8egVzl8GyhBelT8KaoOcdHpDh4PPCyeupIbQnKTz-5r4-5aRx5v06BObx0ixw0xAgtWszqIFnvlLrVCOFuj-pLQoMzxuT0E2qu_Op0BpRz1FCMsDSbWVF1WtlQ3qN=w1280",
+    "sha256": "417cce173e64ee4cf30b398f3e92db420d88ff089831a2aba25e12597a95fea7",
+    "bytes": 4501,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-s-6.gif",
+    "alt": "S",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVw3JQzTH0su_9BU8X5KP6DSqNjomSaWJk8ZtCuP3x1qx53QfFzqR82fvq6cbvHScnZeTHLG9PdWFTGypnqARfIif7WJSQ6AoDnt1KKHmjKJvfRyevAQBh58ySJPU4RY-LDGaeiUl47wKOYkC9ZAv96S8NT2ejoG-YdjjJnTZ-Ph1rHRflLNP83bXrizGDQHM7rj5eERpArGnzL7rGW-1ZTSMD_Rn6qTk5thfhXe3s=w1280",
+    "sha256": "5e3a9c21f7531ae47e989fe0456039cabf4c1556a6502f38ee743689ae4cf4f3",
+    "bytes": 10015,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-c-4.gif",
+    "alt": "C",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUoCcNKtEBmygPZZ1iTwE55Jjn3Y-4biCILW_lQllarTTtczm-mGH8iyR0MrpipmpQQQf-2kGEbEFwlzGWgI0GX8sm0H7gCjnBOAD2xuDN0myXn2TI4WrpIaMt-Xs4180XyQzEleXjwF4oe7FYazX0rZlxnvlL0hoZJJnit3vg8xaN3PL7UwRlzgu7SykCBYNw15git4C9ll9jp8W4=w1280",
+    "sha256": "df0a76b877d35607031c4ba00369d444562137cb95f59f1d7748a0077050064c",
+    "bytes": 6219,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-o-8.gif",
+    "alt": "O",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXYw1a9lxs6U8AyLpNGGgkeWv880pQcZAzA7flJocHMBVpZ91g63em4tgD5tApSiDhlaL_Z4OWXkBSgnn-9T-PMCaVV7cpAvKap0e89YxtFqKUlSalwcivZ5PdsTvAZV_06EIBOHhhy0iDZEKGBJCRVtopM0opnPCMyKQ7_QtDe3J-8u5yG0LCgpt5TModePxOJ0qzWVkzQMxb6qYQ=w1280",
+    "sha256": "296789fd98a9e9d0f1417bdc92307e1d023678a5dd461931076cb767f6672323",
+    "bytes": 4723,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-d-0.gif",
+    "alt": "D",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWGT3hjaaI_pZkkvD2gXr42MxNh6xeRia4YlhOULsTsX5QLku5mGEICRhJFp_YqQgWKJ41N3w2VhfVGleYIbbEeHnbTUR3k6TLLmJpJm400Oa9FtDdhvoKanKWHN0EyEvw29kMyIKG095S1QlhJV7PSiPRDiGoKYgZjtrMLgRBBOs93HvJ4S63Fm03iYu5Dlv4TLZVo7F2kbB3z=w1280",
+    "sha256": "f72b3fa91d83f6fd373d2d118be4a81fb2538a6ceab82233564c5eba1dc9c807",
+    "bytes": 3435,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-r-1.gif",
+    "alt": "R",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVq7juGu_XxfD1Ua6qeeyCbScMWWilixXzLGcFvY7mZhyuyx7EYIbS5ZQjfXy8o129XIj6WTxPh-z5kBgXApI8CxzglQolvnx2uVqxn6q13Rgt1G2BueMIiHgyuvH-reIObOergfNDNQt1cRMZf543GI8uVjT5MClhWDLH2qGerW6N4F9RUX_giXsHJVN7Ss_K9ZFaVGysKLtJDoDU=w1280",
+    "sha256": "e3ab374e40042143e26c4169ba25e37ccae206c85c2c8f1a71e92aae93345f81",
+    "bytes": 5561,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-u-6.gif",
+    "alt": "U",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVEnw9UPl0qt8JQTIcGoyO_E3Bhe_n0VwfxpRVBoBDI2EYNuS_ky3HTD-vvXZuueFoUBNhE348AciVWdszP5dHL-OSEVcS5QSxznHa5B678oCjY1o4f6FdPP4aHbsWTX9C4JkAqG6Aj52QYn-AgP4M40OLQlmph9eWhzrT7MNiouf55Z195zWY0qgEgy6mLHHNV5DoSggT7xtlc6Ma4WDSwP2Quk-j8D9kmaM5P0wg=w1280",
+    "sha256": "0962361cd74410fcc22ff588f8dad1b8730f594c69348372f9ea6ef0597a7f9b",
+    "bytes": 8590,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-m-7.gif",
+    "alt": "M",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQWk7h-6WkJv__09rZCrNLn7QMAhfkmZU30dfTck9V5c6TaadXPEj6KI7ZGMfifKZgmI4OdIpUIX290RvJX0MaUiXGhKTUbvZENcrAZVxOcrQkB2uPi_MV2lApdFDbwI_Aft6kAKhgqXaz0PJ0NRtHhAryEW0m9yB-sh2p21bNcVHnM-RORHycU7kn9nSbT5mxiarHgusO273NP9j2OPwbWbC5icu8DtIBgoSBCwEyg=w1280",
+    "sha256": "f98a69c1c1b5adf9cd897bb04790d1c1cf9026ca62f41d9a3569e1b5abf7254c",
+    "bytes": 10349,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/letter-a-2.gif",
+    "alt": "A",
+    "width": 33,
+    "height": 25,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQXs82Kfrp_0QanJHFFBl0HyIyQ9FciX22u15AHZwMR99svpsJ-tqMtwPQJH2UwxQoqcF2pxJ0AbTZrfrO-_Fqy9KuA4rIhYrCQNsD8pJiNgPWBx0LBxqSdwWKy75HrzVOYaRaXrXnS8YWMUa7DT6aHm8yrEtIFusXMREz_wVjo72Upk6MsD9DoNBABlwJSAaio9oSc_Lt2T2FEp=w1280",
+    "sha256": "5338ee743bf82d1dbeffe1fa35f068d74199bfb49acb596834c437c1aa7862ab",
+    "bytes": 3246,
+    "frames": 13
+  },
+  {
+    "src": "assets/images/video-kU0Ls9hQt3M.jpg",
+    "alt": "Incremental Clustering",
+    "width": 480,
+    "height": 360,
+    "source": "https://i.ytimg.com/vi/kU0Ls9hQt3M/hqdefault.jpg",
+    "sha256": "ab1b63cf659cb9df7100349b288adef70ff25a05fa16583954946d7802f8ebec",
+    "bytes": 19108,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/video-z0DkRyb_NRU.jpg",
+    "alt": "Rat sub-goals",
+    "width": 480,
+    "height": 360,
+    "source": "https://i.ytimg.com/vi/z0DkRyb_NRU/hqdefault.jpg",
+    "sha256": "bd98a553db48cd2dd9dada5b4fe2bb3a5142b98366e48c1e1b43b6e1b50c1380",
+    "bytes": 15062,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/video-8uWHWMVYt54.jpg",
+    "alt": "StageX4",
+    "width": 480,
+    "height": 360,
+    "source": "https://i.ytimg.com/vi/8uWHWMVYt54/hqdefault.jpg",
+    "sha256": "afa0686616afb4dac2fd19abd7a0072f1c8bff3c96af9238c29d01f8e03a97e2",
+    "bytes": 16095,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/video-yloebx_MLfI.jpg",
+    "alt": "Goal Recognition",
+    "width": 480,
+    "height": 360,
+    "source": "https://i.ytimg.com/vi/yloebx_MLfI/hqdefault.jpg",
+    "sha256": "f557c592cb387c4744565fa6141813c4e6d23f2eb3ffc78b3fd2e946ee93092f",
+    "bytes": 14800,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/angel.jpg",
+    "alt": "Angel",
+    "width": 333,
+    "height": 447,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQVVKReaLu3XKoz1wDuY71SDvpVZVFZpJZ881hX_BKW1T1q7Rf-TiJpmGrR1I6zmiEvgpgo9UUuQhcXE2WssG-7LggnnOwTXBKXd7JaHqtBVxEOAk3lNRp7wKfDm94e0F__x6DfjgRubZ1yldh0RhuUjt9IrwDYTs8Eets0bFBT7XHhURpy0uVPBWBz-Zq4p8rriZ4zNXd9VTYv-kyU=w1280",
+    "sha256": "2ebfdeafdf0dc974ede9fce9f2f9464fb73d6ca508360e7e942951bedd5236b3",
+    "bytes": 31922,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/research-3-0.jpg",
+    "alt": "Francesco Donnarumma",
+    "width": 628,
+    "height": 649,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQW1PhIDpodF4I_h0KsCfylB--v5-U7mffO7UXQ3hXQpPY0Y9zhykYVfMAksQGxGq8pfFbU_LwkgX6sz4duVtRn69maxDK3wbIQ_1P42Mgd_AA9yIvEZEY0ZqclktNX4U2jD0UkZpEhXi_O9Eihpa6rsdQhqKXI_tXXIsHUvtfl-EPFimjTF93gHtMp25m1xVc-7BCxGC8jqP_93b7cgygysEYDZlfKR6SM45l5lIlc=w1280",
+    "sha256": "2336d8f4cf62f007bf077ba0fa0a6736f468a1047bc97d79c0e3395561a81a68",
+    "bytes": 86716,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/personal-3-0.png",
+    "alt": "Citation map",
+    "width": 1039,
+    "height": 534,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQV7u3i3sZmRTi3c74XAaJHd2ex1ema8EJs1VOWyDHEZk2-LDN8v4WFmL45gz4ljKdLTBdxBpB5cb3gGyx0R1oENXqRxoZrmOEF89DBU6ht1QSwExVWgylKfdL4LJVXGBzxpEMOWVvobCUDaLJAWbIVyJz8qs-NZQzeICZJRdj8peNizBx3d8TleUAa70zeCX2tVrcbDuXhXzATLd3F9mcb3gjV7ig7QpCgRBetsxjg=w1280",
+    "sha256": "102050f7d1d383fb8867adbf4a5a5cb54c890abdce80d3eb5bdc4e825542a373",
+    "bytes": 146531,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/personal-4-0.png",
+    "alt": "Citation map",
+    "width": 558,
+    "height": 355,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQUYm5c-AbTy8rn4v9AA7D4kvor7ciTgq-GZ2kXYswMh6Wmq03-en0ivykTvYw_ibvhpBYo74yzN999ep96XBghzPYqPyXnSZm8omkypsnOCSa-fbN2X52frmUkHDOFZe53dYLOPGOqCpcKsjvEeWXGN_bOZreOImHcHdG_jyew_IEQfLaXJv73-gPFNY7KJaByTOtR1LsxOENfbSstceXVzfRcduV09LW4J45VL=w1280",
+    "sha256": "ac3ae8bb9838fe555c7731df85c0134104360d507a2b2699b08ebb2a3d3d65aa",
+    "bytes": 10860,
+    "frames": 1
+  },
+  {
+    "src": "assets/images/personal-5-0.png",
+    "alt": "Citation map",
+    "width": 1280,
+    "height": 720,
+    "source": "https://lh3.googleusercontent.com/sitesv/AG8ngQW412GguCCvi-JvpQY9-IXlq1qBNXYZaqdWqFtpFD6WZJFsuPxm0aLATSWVbkgIbGoEvo1JaZETdCY7lZz6dyFC5wvCYLbVGgiFm4MnDqNcivxjesbBzlrCq9WQSyFtMEIJwXoWeuzc5-hRowNSI7rTEoOAkZKvlF8_VxVw5T5IipWL2XCxHgmc7p2_Ics8ldgStEY3QUvXQ6RNYniCT-GxMvD8WPuZSC1ivsozZYQ=w1280",
+    "sha256": "01b6201c01d8e51e6aa062c4a5e6571f94700d4e7148bfa31bf2fb380d4cdd86",
+    "bytes": 539580,
+    "frames": 1
+  }
+]
