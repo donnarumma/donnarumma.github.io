@@ -92,7 +92,7 @@ class HighlightTests(unittest.TestCase):
             for anchor in Anchors(' '.join(entry['paragraphs'])).anchors
             if anchor.get('href', '').startswith('https://doi.org/')
         }
-        self.assertEqual(len(highlights), 8)
+        self.assertEqual(len(highlights), 10)
         self.assertIn('Inferential planning in the frontal cortex', plain(highlights[0]))
         years = []
         for highlight in highlights:
@@ -107,7 +107,7 @@ class HighlightTests(unittest.TestCase):
         for prefix in ('', '../'):
             anchors = Anchors(home_body(self.data, prefix)).anchors
             highlights = [a for a in anchors if a['href'].startswith('https://doi.org/')]
-            self.assertEqual(len(highlights), 8)
+            self.assertEqual(len(highlights), 10)
             for anchor in highlights:
                 self.assertEqual(anchor['target'], '_blank')
                 self.assertEqual(set(anchor['rel'].split()), {'noopener', 'noreferrer'})
