@@ -108,6 +108,20 @@ il push; `.local/` e `_site/` non sono comunque presenti nel repository remoto.
 Procedura e punti da rivedere prima del passaggio:
 [migration/README.md](migration/README.md).
 
+## Substack Import Staging
+
+`substack-staging/` contains a deliberately unlinked and `noindex` RSS source
+for importing selected long-form posts into Substack. The current feed is:
+
+<https://www.francescodonnarumma.net/substack-staging/feed.xml>
+
+It carries only the article *Reading is a form of active sampling*, including
+the four figure files at stable public URLs. In Substack use `Settings` ->
+`Import/Export` -> `Import posts`, then provide the feed URL and import the
+single discovered item. The staging page is public only so that Substack can
+fetch it; it is not linked from the site navigation and asks search engines not
+to index it.
+
 ## Provenienza E Licenze
 
 I contenuti e le immagini provengono dal sito personale esistente. Questo

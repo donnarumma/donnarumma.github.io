@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Francesco Donnarumma - Substack import staging</title>
+    <link>https://www.francescodonnarumma.net/substack-staging/</link>
+    <description>Controlled RSS source for selected Substack imports.</description>
+    <language>en</language>
+    <atom:link href="https://www.francescodonnarumma.net/substack-staging/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2026 16:00:00 +0200</lastBuildDate>
+    <item>
+      <title>Reading is a form of active sampling</title>
+      <link>https://www.francescodonnarumma.net/substack-staging/integrating-llm-active-inference/</link>
+      <guid isPermaLink="true">https://www.francescodonnarumma.net/substack-staging/integrating-llm-active-inference/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0200</pubDate>
+      <dc:creator>Francesco Donnarumma</dc:creator>
+      <description><![CDATA[How large language models, eye movements, and active inference meet in a model of reading and dyslexia.]]></description>
+      <content:encoded><![CDATA[
+        <p><em>How large language models, eye movements, and active inference meet in a model of reading and dyslexia</em></p>
+        <p>Reading can feel so fluent that it is easy to miss how much work the eyes are doing. Each line is sampled through a succession of fixations and saccades. Where we look next is not simply a matter of moving across the page: it shapes the visual evidence available to the reader and, in turn, the interpretation of the text.</p>
+        <p>In a recent paper with Mirco Frosolone and Giovanni Pezzulo, we asked whether this continuous interplay between linguistic expectations and eye movements can be described within a single computational model. The result is a model that connects large language models, active inference, reading, and a computational hypothesis about dyslexia.</p>
+        <figure><img src="https://www.francescodonnarumma.net/substack-staging/assets/01-cover-title.png" alt="Title slide for the paper Integrating Large Language Models and Active Inference to Understand Eye Movements in Reading and Dyslexia."><figcaption><em>Figure 1. The paper introduces a computational account of how predictions about language and eye movements can work together during reading. Read the full article in <a href="https://doi.org/10.1016/j.plrev.2025.08.008">Physics of Life Reviews</a>.</em></figcaption></figure>
+        <h2>Eyes as hypothesis-testing devices</h2>
+        <p>One useful way of thinking about reading is that the eyes actively test hypotheses. A saccade selects a new location from which to collect evidence. It is therefore an epistemic action: a small experiment intended to reduce the uncertainty that matters for understanding the sentence.</p>
+        <p>This is the perspective offered by active inference. Instead of separating perception from action, active inference treats both as parts of an ongoing process of inference. The reader forms expectations about the text, samples new visual information, updates those expectations, and chooses where to look next.</p>
+        <figure><img src="https://www.francescodonnarumma.net/substack-staging/assets/02-model-and-saccades.png" alt="Hierarchical active-inference model with sentence, word, syllable and visual-location levels, together with example saccades across a sentence."><figcaption><em>Figure 2. The architecture links linguistic predictions at sentence and word levels to visual sampling at syllable and spatial levels. The coloured paths illustrate how saccades gather evidence across a sentence.</em></figcaption></figure>
+        <p>The point is not to treat a large language model as a complete theory of human reading. Rather, it provides a computational source of contextual expectations: an explicit model of what the reader may anticipate before the next fixation. Those expectations become useful only when they are coupled to a mechanism for seeking and evaluating sensory evidence.</p>
+        <h2>Known words and unfamiliar words</h2>
+        <p>The same architecture supports two different regimes. When a word is familiar, strong lexical predictions can guide recognition efficiently. When a word is unfamiliar, the system relies more heavily on sublexical evidence, assembling the word syllable by syllable. This echoes the distinction between lexical and nonlexical routes in theories of reading, while keeping both routes within one generative model.</p>
+        <figure><img src="https://www.francescodonnarumma.net/substack-staging/assets/03-known-and-unknown-words.png" alt="Probability trajectories for sentence, word and syllable levels while the model reads familiar and unfamiliar words."><figcaption><em>Figure 3. With familiar words, lexical evidence can settle quickly. With unfamiliar words, the model samples and integrates more syllable-level evidence before reaching a stable interpretation.</em></figcaption></figure>
+        <h2>A computational experiment on dyslexia</h2>
+        <p>The model also lets us ask what happens when high-level expectations contribute less effectively to inference. In simulations, attenuating the influence of priors led to more fragmented visual sampling: more, smaller forward saccades and more backward saccades. These patterns qualitatively resemble aspects of eye movements reported in dyslexia.</p>
+        <figure><img src="https://www.francescodonnarumma.net/substack-staging/assets/04-prior-attenuation-and-saccades.png" alt="Box plots comparing forward and backward saccades in control and dyslexic-model conditions for four-word and eight-word sentences."><figcaption><em>Figure 4. Attenuating priors changes the model's saccade patterns. The result is a computational experiment on maladaptive predictive processing, not a diagnostic model of dyslexia.</em></figcaption></figure>
+        <p>This does not mean that dyslexia has a single cause, nor that a computational model can replace clinical or educational assessment. It gives us a more precise question to investigate: how could altered confidence in contextual predictions change the way evidence is sampled during reading?</p>
+        <h2>Why bring these pieces together?</h2>
+        <p>Large language models are useful here because they capture rich, context-based regularities in language. Active inference is useful because it specifies how an agent can act on the world to test its predictions. Bringing the two together makes it possible to model reading as an active, embodied process rather than as text processing detached from the eyes that gather the text.</p>
+        <p>That connection opens experimental questions. Which linguistic predictions should guide the next fixation? When does a reader shift from lexical to syllable-level processing? How do uncertainty and attention affect the balance between moving forward and returning to earlier text? The model is an attempt to make such questions computationally explicit.</p>
+        <p>The <a href="https://arxiv.org/abs/2308.04941">preprint</a> and the <a href="https://github.com/donnarumma/HAI_LANGUAGE">code repository</a> are also available.</p>
+      ]]></content:encoded>
+    </item>
+  </channel>
+</rss>
