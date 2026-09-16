@@ -12,7 +12,7 @@
     "LinkedIn": "https://www.linkedin.com/in/francesco-donnarumma/",
     "X / Twitter": "https://x.com/FranDonnarumma"
   },
-  "archived_profiles": ["X / Twitter", "LinkedIn"],
+  "archived_profiles": ["Academia.edu", "X / Twitter", "LinkedIn"],
   "additional_profiles": [
     {
       "label": "OpenAlex",
@@ -25,8 +25,28 @@
         "height": 526
       }
     },
-    {"label": "WSocial", "url": "https://wsocial.eu/profile/fran-donnarumma.wsocial.eu", "group": "social"},
-    {"label": "Substack", "url": "https://substack.com/@donnarummafrancesco", "group": "social"},
+    {
+      "label": "W Social",
+      "url": "https://wsocial.eu/profile/fran-donnarumma.wsocial.eu",
+      "group": "social",
+      "image": {
+        "src": "assets/images/profile-wsocial.png",
+        "alt": "W Social",
+        "width": 180,
+        "height": 180
+      }
+    },
+    {
+      "label": "Substack",
+      "url": "https://substack.com/@donnarummafrancesco",
+      "group": "social",
+      "image": {
+        "src": "assets/images/profile-substack.png",
+        "alt": "Substack",
+        "width": 180,
+        "height": 180
+      }
+    },
     {"label": "Instagram", "url": "https://www.instagram.com/francesco___donnarumma/", "group": "social"}
   ]
 }

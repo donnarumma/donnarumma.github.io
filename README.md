@@ -119,6 +119,8 @@ marchi di terzi. I loghi identificano i rispettivi servizi.
 - OpenAlex: [simbolo ufficiale bianco](https://github.com/ourresearch/openalex-gui/blob/master/public/brand-assets/openalex-mark-white.png),
   introdotto nel [nuovo marchio](https://blog.openalex.org/a-new-logo-for-openalex/),
   conservato in PNG a 526 x 526 pixel e visualizzato piu' piccolo degli altri loghi.
+- Substack e W Social: icone ufficiali delle rispettive piattaforme, conservate
+  localmente in PNG a 180 x 180 pixel.
 - [migration/assets.json](migration/assets.json): URL originali, dimensioni,
   numero di fotogrammi e hash SHA-256.
 - [migration/cv-snapshot.json](migration/cv-snapshot.json): provenienza dei download.

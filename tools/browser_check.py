@@ -94,6 +94,10 @@ async def main(port):
                         &&logo.top>=box.top&&logo.bottom<=box.bottom;
                 })()''')
                 assert metrics['openalexLogoFits'], 'OpenAlex logo missing or incorrectly sized'
+                metrics['profileTitles'] = await evaluate("[...document.querySelectorAll('.profile-strip a')].map(a=>a.title)")
+                assert len(metrics['profileTitles']) == 12, metrics['profileTitles']
+                assert all(label in metrics['profileTitles'] for label in ['OpenAlex', 'W Social', 'Substack'])
+                assert 'Academia.edu' not in metrics['profileTitles']
                 metrics['backgrounds'] = await evaluate('''(async()=>{
                     const elements=[document.body,document.querySelector('.page-banner,.name-banner')];
                     const images=[];

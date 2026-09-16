@@ -155,14 +155,14 @@ def page_heading(page, prefix, settings):
 
 def profiles(data, settings, prefix):
     items = []
-    for profile in data['profiles']:
+    profiles = data['profiles'] + [p for p in settings['additional_profiles'] if 'image' in p]
+    for profile in profiles:
         if profile['label'] in settings['archived_profiles']:
             continue
-        url = settings['profile_updates'].get(profile['label'], profile['url'])
-        items.append(link(url, image(profile['image'], prefix, eager=True), 'profile-link', title=profile['label']))
-    openalex = next(p for p in settings['additional_profiles'] if p['label'] == 'OpenAlex')
-    items.append(link(openalex['url'], image(openalex['image'], prefix, eager=True),
-                      'profile-link profile-openalex', title='OpenAlex'))
+        label = profile['label']
+        url = settings['profile_updates'].get(label, profile['url'])
+        css = 'profile-link profile-openalex' if label == 'OpenAlex' else 'profile-link'
+        items.append(link(url, image(profile['image'], prefix, eager=True), css, title=label))
     items.append(image(data['brain'], prefix, 'brain', eager=True))
     return ''.join(items)
 
