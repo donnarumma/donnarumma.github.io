@@ -314,23 +314,14 @@
         }
       ],
       "highlights": [
-        "<strong>Highlights:</strong>",
-        "<a href=\"https://link.springer.com/article/10.1007/s00422-017-0714-1\"><strong>You cannot speak and listen at the same time: a probabilistic model of turn-taking</strong></a>",
-        "<a href=\"http://www.sciencedirect.com/science/article/pii/S0010945217300308\"><strong>Action Perception as Hypothesis Testing</strong></a>",
-        "<a href=\"http://journals.sagepub.com/doi/full/10.1177/0956797616683015\"><strong>Avoiding Accidents at the Champagne Reception: A Study of Joint Lifting and Balancing</strong></a>",
-        "<a href=\"http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00237/abstract\"><strong>Sensorimotor Coarticulation in the Execution and Recognition of Intentional Actions</strong></a>",
-        "<a href=\"http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004864\"><strong>Problem Solving as Probabilistic Inference with Subgoaling: Explaining Human Successes and Pitfalls in the Tower of Hanoi</strong></a>",
-        "<a href=\"http://www.mdpi.com/1099-4300/18/2/61\"><strong>Nonparametric Problem-Space Clustering: Learning Efficient Codes for Cognitive Control Tasks</strong></a>",
-        "<a href=\"http://adb.sagepub.com/content/early/2015/10/23/1059712315609412.abstract\"><strong>Learning programs is better than learning dynamics: a Programmable Neural Network Hierarchical Architecture in a multi-task Scenario</strong></a>",
-        "<a href=\"http://rsif.royalsocietypublishing.org/content/12/110/20150644\"><strong>Interactional Leader-Follower Sensorimotor Communication Strategies During Repetitive joint actions</strong></a>",
-        "<a href=\"http://link.springer.com/10.1007/s00422-015-0654-6\"><strong>The Intentional Stance as Structure Learning: A Computational Perspective on Mindreading</strong></a>",
-        "<a href=\"http://control.ibspan.waw.pl:3000/contents/show/180?year=2015\"><strong>Dynamic Network Functional Comparison via Approximate-bisimulation</strong></a>",
-        "<a href=\"http://www.worldscientific.com/doi/abs/10.1142/S0129065715500173\"><strong>A Programmer\u2013Interpreter Neural Network Architecture for Prefrontal Cognitive Control</strong></a>",
-        "<a href=\"http://rsif.royalsocietypublishing.org/content/12/104/20141335\"><strong>Divide et Impera: Subgoaling reduces the Complexity of Probabilistic Inference and Problem Solving</strong></a>",
-        "<a href=\"http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079876\"><strong>Human Sensorimotor Communication: a theory of Signaling in Online Social Interactions</strong></a>",
-        "<a href=\"http://adb.sagepub.com/content/21/4/251\"><strong>Mental Imagery in the navigation domain: a computational model of Sensory-motor Simulation mechanisms</strong></a>",
-        "<a href=\"http://www.tandfonline.com/doi/full/10.1080/09540091.2012.684670#.Utv90N9wYtc\"><strong>Programming in the Brain: a Neural Network Theoretical Framework</strong></a>",
-        "<a href=\"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6385511\"><strong>Fast Incremental Clustering and Representation of a 3D Point Cloud Sequence with Planar Regions</strong></a>"
+        "<a href=\"https://doi.org/10.1016/j.celrep.2026.117905\"><strong>Inferential planning in the frontal cortex</strong></a><span class=\"highlight-meta\">Cell Reports, 2026</span>",
+        "<a href=\"https://doi.org/10.1016/j.plrev.2026.03.001\"><strong>A predictive processing framework for joint action and communication</strong></a><span class=\"highlight-meta\">Physics of Life Reviews, 2026</span>",
+        "<a href=\"https://doi.org/10.1016/j.engappai.2026.114519\"><strong>Active digital twins via active inference</strong></a><span class=\"highlight-meta\">Engineering Applications of Artificial Intelligence, 2026</span>",
+        "<a href=\"https://doi.org/10.1162/IMAG.a.1178\"><strong>False but phonologically plausible linguistic priors induce cross-linguistic auditory illusions and attenuate electrophysiological markers of surprise</strong></a><span class=\"highlight-meta\">Imaging Neuroscience, 2026</span>",
+        "<a href=\"https://doi.org/10.1016/j.plrev.2025.08.008\"><strong>Integrating large language models and active inference to understand eye movements in reading and dyslexia</strong></a><span class=\"highlight-meta\">Physics of Life Reviews, 2025</span>",
+        "<a href=\"https://doi.org/10.1109/TSMC.2023.3312585\"><strong>Interactive inference: a multi-agent model of cooperative joint actions</strong></a><span class=\"highlight-meta\">IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024</span>",
+        "<a href=\"https://doi.org/10.1371/journal.pcbi.1004864\"><strong>Problem solving as probabilistic inference with subgoaling: explaining human successes and pitfalls in the Tower of Hanoi</strong></a><span class=\"highlight-meta\">PLOS Computational Biology, 2016</span>",
+        "<a href=\"https://doi.org/10.1371/journal.pone.0079876\"><strong>Human sensorimotor communication: a theory of signaling in online social interactions</strong></a><span class=\"highlight-meta\">PLOS ONE, 2013</span>"
       ]
     },
     "research": {
@@ -511,13 +502,13 @@
         },
         {
           "id": "paper-11",
-          "year": "2023",
+          "year": "2024",
           "paragraphs": [
             "Domenico Maisto, <strong>Francesco Donnarumma</strong>, Giovanni Pezzulo",
             "<a href=\"https://doi.org/10.1109/TSMC.2023.3312585\"><em>Interactive inference: a multi-agent model of cooperative joint actions</em></a>",
-            "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+            "IEEE Transactions on Systems, Man, and Cybernetics: Systems 54 (2), pp. 704-715",
             "doi:10.1109/TSMC.2023.3312585",
-            "2023 [<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10288543\">pdf</a>] [bib] [<a href=\"https://arxiv.org/abs/2210.13113\">arXiv</a>]"
+            "2024 [<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10288543\">pdf</a>] [bib] [<a href=\"https://arxiv.org/abs/2210.13113\">arXiv</a>]"
           ]
         },
         {

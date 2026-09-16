@@ -68,6 +68,7 @@ p + p { margin-top: 24px; }
 .highlights { padding-block: 36px 56px; border-top: 1px solid rgb(255 255 255 / 15%); }
 .highlights ul { margin: 24px 0 0; padding-left: 24px; }
 .highlights li { margin-bottom: 18px; padding-left: 8px; }
+.highlight-meta { display: block; margin-top: 4px; color: #c4d4ce; font-size: 16px; line-height: 1.5; }
 
 .research-section { padding-block: 32px 46px; }
 .research-layout { display: grid; grid-template-columns: 366px minmax(0, 1fr); gap: 42px; align-items: center; }

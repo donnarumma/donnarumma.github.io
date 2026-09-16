@@ -131,7 +131,12 @@ async def main(port):
                     await call('Input.dispatchKeyEvent', {'type': 'keyDown', 'key': 'Escape', 'code': 'Escape', 'windowsVirtualKeyCode': 27})
                     assert await evaluate("document.querySelector('[data-menu-toggle]').getAttribute('aria-expanded')==='false'")
                 await evaluate("document.querySelector('[data-search-open]').click();document.querySelector('#site-query').value='inferential planning';document.querySelector('#site-query').dispatchEvent(new Event('input'))")
-                assert await evaluate("document.querySelector('.search-dialog').open && document.querySelectorAll('.search-results li').length===1")
+                assert await evaluate('''(()=>{
+                    const links=[...document.querySelectorAll('.search-results a')];
+                    return document.querySelector('.search-dialog').open && links.length===2
+                        && links.some(a=>a.href.endsWith('/home/index.html'))
+                        && links.some(a=>a.href.endsWith('/papers/index.html#paper-01'));
+                })()''')
                 metrics['linkTargetsCorrect'] = await evaluate('''(()=>{
                     const internalHosts=new Set(['www.francescodonnarumma.net','francescodonnarumma.net','donnarumma.github.io']);
                     return [...document.querySelectorAll('a[href]')].every(a=>{

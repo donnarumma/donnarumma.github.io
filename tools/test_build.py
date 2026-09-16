@@ -2,9 +2,10 @@
 """Focused regression tests for generated link destinations."""
 
 import unittest
+import json
 from html.parser import HTMLParser
 
-from build import is_external_url, link, localize
+from build import ROOT, home_body, is_external_url, link, localize, make_search_index, plain
 
 
 class Anchors(HTMLParser):
@@ -74,6 +75,47 @@ class LinkTests(unittest.TestCase):
     def test_link_title_is_escaped(self):
         anchor = Anchors(link('https://example.org/', 'Profile', 'profile-link', title='A "profile"')).anchors[0]
         self.assertEqual(anchor['title'], 'A "profile"')
+
+
+class HighlightTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.data = json.loads((ROOT / 'content/site.json').read_text())
+        cls.settings = json.loads((ROOT / 'content/settings.json').read_text())
+
+    def test_highlights_link_to_existing_papers(self):
+        highlights = self.data['pages']['home']['highlights']
+        papers = self.data['pages']['papers']['entries']
+        by_doi = {
+            anchor['href']: entry
+            for entry in papers
+            for anchor in Anchors(' '.join(entry['paragraphs'])).anchors
+            if anchor.get('href', '').startswith('https://doi.org/')
+        }
+        self.assertEqual(len(highlights), 8)
+        self.assertIn('Inferential planning in the frontal cortex', plain(highlights[0]))
+        years = []
+        for highlight in highlights:
+            anchor = Anchors(highlight).anchors[0]
+            self.assertIn(anchor['href'], by_doi)
+            paper = by_doi[anchor['href']]
+            self.assertTrue(plain(highlight).endswith(paper['year']))
+            years.append(paper['year'])
+        self.assertEqual(years, sorted(years, reverse=True))
+
+    def test_home_highlight_links_open_new_tabs(self):
+        for prefix in ('', '../'):
+            anchors = Anchors(home_body(self.data, prefix)).anchors
+            highlights = [a for a in anchors if a['href'].startswith('https://doi.org/')]
+            self.assertEqual(len(highlights), 8)
+            for anchor in highlights:
+                self.assertEqual(anchor['target'], '_blank')
+                self.assertEqual(set(anchor['rel'].split()), {'noopener', 'noreferrer'})
+
+    def test_search_finds_highlight_and_full_publication(self):
+        matches = [item['url'] for item in make_search_index(self.data, self.settings)
+                   if 'inferential planning' in (item['title'] + ' ' + item['text']).lower()]
+        self.assertEqual(matches, ['home/index.html', 'papers/index.html#paper-01'])
 
 
 if __name__ == '__main__':
