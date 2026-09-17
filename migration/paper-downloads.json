@@ -1,0 +1,892 @@
+{
+  "updated_on": "2026-09-17",
+  "records": [
+    {
+      "id": "paper-01",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2025inferential",
+      "destination": "assets/downloads/papers/bibs/donnarumma2025inferential.bib",
+      "previous_url": null,
+      "bytes": 445,
+      "sha256": "dbe12b1a0e0e2b41c1e7ced6c4be9e28a793861c80e86ff4b6eb84ae18110a09"
+    },
+    {
+      "id": "paper-02",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2026predictive",
+      "destination": "assets/downloads/papers/bibs/pezzulo2026predictive.bib",
+      "previous_url": null,
+      "bytes": 498,
+      "sha256": "1fe0a8331cf44bf31f1712958c84d0241460ca60adf3851ed3746fc408f3b143"
+    },
+    {
+      "id": "paper-03",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "torzoni2026active",
+      "destination": "assets/downloads/papers/bibs/torzoni2026active.bib",
+      "previous_url": null,
+      "bytes": 497,
+      "sha256": "e904e0bed3c7945abc5b7f681a1f6c6c82c01b8fdb65586dac8224631f5bcfdb"
+    },
+    {
+      "id": "paper-04",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "visalli2024computational",
+      "destination": "assets/downloads/papers/bibs/visalli2024computational.bib",
+      "previous_url": null,
+      "bytes": 477,
+      "sha256": "6998ff126adcb06c346578de4e87a159a35fc33635f8a2571372455dd42b4250"
+    },
+    {
+      "id": "paper-05",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "giraldi2025false",
+      "destination": "assets/downloads/papers/bibs/giraldi2025false.bib",
+      "previous_url": null,
+      "bytes": 584,
+      "sha256": "4e9294fe2e08458651068ce5fc0369f4d921e18d8aeb1327fe46ac1cc6be9396"
+    },
+    {
+      "id": "paper-06",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2025integrating",
+      "destination": "assets/downloads/papers/bibs/donnarumma2025integrating.bib",
+      "previous_url": null,
+      "bytes": 448,
+      "sha256": "b9f1f81b490ec3db995860ebb7317f17959f619720d6d089f7db3e48facf8621"
+    },
+    {
+      "id": "paper-07",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2025kinematics",
+      "destination": "assets/downloads/papers/bibs/pezzulo2025kinematics.bib",
+      "previous_url": null,
+      "bytes": 558,
+      "sha256": "5ca92823b87b250b681ddc2e8481fc445cf2028a4a4a57904565634859ae2c09"
+    },
+    {
+      "id": "paper-08",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "frosolone2024enhancing",
+      "destination": "assets/downloads/papers/bibs/frosolone2024enhancing.bib",
+      "previous_url": null,
+      "bytes": 527,
+      "sha256": "1bacff3ea20943a895308d2bad61a1d6fe6b41fdf33c45dceb08b1f3baf5824a"
+    },
+    {
+      "id": "paper-09",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "criscuolo2024exploring",
+      "destination": "assets/downloads/papers/bibs/criscuolo2024exploring.bib",
+      "previous_url": null,
+      "bytes": 557,
+      "sha256": "585a17a3ec1e64ef4a0d77de9817b5c241d5c0dba77819ecf075b85bac19b81e"
+    },
+    {
+      "id": "paper-11",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "maisto2024interactive",
+      "destination": "assets/downloads/papers/bibs/maisto2024interactive.bib",
+      "previous_url": null,
+      "bytes": 461,
+      "sha256": "f9428037994671a76407d2a2a6c3d7e9ec35cf3f908e97e079f126b7b29aec20"
+    },
+    {
+      "id": "paper-12",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "eluchans2024particles",
+      "destination": "assets/downloads/papers/bibs/eluchans2024particles.bib",
+      "previous_url": null,
+      "bytes": 457,
+      "sha256": "f200a06bdd2c0af93c1a75e79cbb4ba6d76d6e8c417bc8cf51bd598750f2e427"
+    },
+    {
+      "id": "paper-13",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "priorelli2024modeling",
+      "destination": "assets/downloads/papers/bibs/priorelli2024modeling.bib",
+      "previous_url": null,
+      "bytes": 500,
+      "sha256": "b32670708541177a6a226600e8ea3527f8b0b49acb4200052e98214a27509d29"
+    },
+    {
+      "id": "paper-14",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2022donnarummaMeasurementHaptic.pdf",
+      "destination": "assets/downloads/papers/2022donnarummaMeasurementHaptic.pdf",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/2022donnarummaMeasurementHaptic.pdf",
+      "pages": 9,
+      "evidence": "doi",
+      "bytes": 1576008,
+      "sha256": "971da85899d6e660485bb112db44dd004de48656c65b4f828f473ba7070a5a61"
+    },
+    {
+      "id": "paper-14",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2023visual",
+      "destination": "assets/downloads/papers/bibs/arpaia2023visual.bib",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/bibs/2022donnarummaMeasurementHaptic.bib",
+      "bytes": 623,
+      "sha256": "34874b0dcf95fe230e3ef98044c553eabaa8ced6f7890ade9b16d933099bdf5e"
+    },
+    {
+      "id": "paper-15",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2022donnarummaProgressInNeurobiologyShared.pdf",
+      "destination": "assets/downloads/papers/2022donnarummaProgressInNeurobiologyShared.pdf",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/2022donnarummaProgressInNeurobiologyShared.pdf",
+      "pages": 11,
+      "evidence": "doi",
+      "bytes": 4389469,
+      "sha256": "eac9e21afed84ec17e3427cf625179c2b6dfef826c29524c7fc9360adab259f6"
+    },
+    {
+      "id": "paper-15",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2022shared",
+      "destination": "assets/downloads/papers/bibs/pezzulo2022shared.bib",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/bibs/2022donnarummaProgressInNeurobiologyShared.bib",
+      "bytes": 1890,
+      "sha256": "82ec4a06d8fda766636f642dbfe6c5e3e980679936fafcd26ad76e4caee6052a"
+    },
+    {
+      "id": "paper-16",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2022multimodal",
+      "destination": "assets/downloads/papers/bibs/arpaia2022multimodal.bib",
+      "previous_url": null,
+      "bytes": 551,
+      "sha256": "126db305dd78ca7470211c8e2ba75c61009add0f9b6e9531c9c3d9946f45402a"
+    },
+    {
+      "id": "paper-17",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2022donnarummaXRsalentoMIBCI.pdf",
+      "destination": "assets/downloads/papers/2022donnarummaXRsalentoMIBCI.pdf",
+      "previous_url": null,
+      "pages": 13,
+      "evidence": "title",
+      "bytes": 1095589,
+      "sha256": "a262450123c6bcf33b505a5fcad47f0ac450909bec46cadcb5098b99300bc4b2"
+    },
+    {
+      "id": "paper-17",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2022non",
+      "destination": "assets/downloads/papers/bibs/arpaia2022non.bib",
+      "previous_url": null,
+      "bytes": 448,
+      "sha256": "719344f5053f27076807dc76908e3bcb2264f740c7cedf5b420e23d501f51dba"
+    },
+    {
+      "id": "paper-18",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2021donnarummaIJNSHysteresis.pdf",
+      "destination": "assets/downloads/papers/2021donnarummaIJNSHysteresis.pdf",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/2021donnarummaIJNSHysteresis.pdf",
+      "pages": 18,
+      "evidence": "doi",
+      "bytes": 3843929,
+      "sha256": "8b3c7d7643419380fbb61221881077d9126e0bbfb35dd2c60963071c3dc70e96"
+    },
+    {
+      "id": "paper-19",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2021moral",
+      "destination": "assets/downloads/papers/bibs/donnarumma2021moral.bib",
+      "previous_url": null,
+      "bytes": 1433,
+      "sha256": "151449c149c22da0dea4fac14e1b6a245e81a5e262da830b01e049aebe97dc90"
+    },
+    {
+      "id": "paper-20",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "duvelle2021hippocampal",
+      "destination": "assets/downloads/papers/bibs/duvelle2021hippocampal.bib",
+      "previous_url": null,
+      "bytes": 613,
+      "sha256": "e5728c3058929095fb1feb1bcfb871d2a6351aa6e5a657fd6e472253c7d3a298"
+    },
+    {
+      "id": "paper-21",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2021donnarummaNeuNetwSurvey.pdf",
+      "destination": "assets/downloads/papers/2021donnarummaNeuNetwSurvey.pdf",
+      "previous_url": null,
+      "pages": 19,
+      "evidence": "doi",
+      "bytes": 1892870,
+      "sha256": "7d14bb5d50cc6d5249d082531932e821489ea264ccfdc8022a7e79e0b5684db1"
+    },
+    {
+      "id": "paper-21",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "apicella2021survey",
+      "destination": "assets/downloads/papers/bibs/apicella2021survey.bib",
+      "previous_url": null,
+      "bytes": 1656,
+      "sha256": "ba08ae0c677901a4cebdfaf81fc51896a48a069d8b8d6f200ba10bf460fc90bb"
+    },
+    {
+      "id": "paper-22",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2020framework",
+      "destination": "assets/downloads/papers/bibs/donnarumma2020framework.bib",
+      "previous_url": null,
+      "bytes": 542,
+      "sha256": "66d80c99351b850ecf044fce2a1110c48e378748b65fa05b53ccb7766bd94cb2"
+    },
+    {
+      "id": "paper-23",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2021donnarummaIJNSEEGChannels.pdf",
+      "destination": "assets/downloads/papers/2021donnarummaIJNSEEGChannels.pdf",
+      "previous_url": null,
+      "pages": 16,
+      "evidence": "doi",
+      "bytes": 2659243,
+      "sha256": "cfd8667121bb29b05e3650892fb90a80386b5822f9efd4ee2e08193ed2cd264b"
+    },
+    {
+      "id": "paper-23",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2020channel",
+      "destination": "assets/downloads/papers/bibs/arpaia2020channel.bib",
+      "previous_url": null,
+      "bytes": 504,
+      "sha256": "aef377334546d747f068d786f07e71e6a081485e03608028e9523466f04d10d5"
+    },
+    {
+      "id": "paper-24",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2020donnarummaMeasurementsConceptual.pdf",
+      "destination": "assets/downloads/papers/2020donnarummaMeasurementsConceptual.pdf",
+      "previous_url": "https://www.dropbox.com/s/nf7180er1k6580b/donnarummaMeasurements2020Conceptual.pdf?dl=1",
+      "pages": 8,
+      "evidence": "doi",
+      "bytes": 766410,
+      "sha256": "0e8e01fff27114fdd82ac65eeed675cdaac33f50f695e8f3de46cdfdc60997cd"
+    },
+    {
+      "id": "paper-24",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2021conceptual",
+      "destination": "assets/downloads/papers/bibs/arpaia2021conceptual.bib",
+      "previous_url": null,
+      "bytes": 640,
+      "sha256": "bf6bf8c674e803eecf2adafdda3af3aa08888f1a784ac6a7e05bb4324af434a1"
+    },
+    {
+      "id": "paper-26",
+      "kind": "bib",
+      "source": "~/OneDrive/PUBLIC/papers/bibs/donnarumma.bib",
+      "key": "pezzulo2020social",
+      "destination": "assets/downloads/papers/bibs/pezzulo2020social.bib",
+      "previous_url": null,
+      "bytes": 340,
+      "sha256": "f221d7a5f22435d1f98bec289de25f9075baae02a9ca4598efc9dd294e69b2d9"
+    },
+    {
+      "id": "paper-27",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2020donnarummaI2MTCInstrumentation.pdf",
+      "destination": "assets/downloads/papers/2020donnarummaI2MTCInstrumentation.pdf",
+      "previous_url": "https://ieeexplore.ieee.org/document/9129244",
+      "pages": 6,
+      "evidence": "title",
+      "bytes": 1173554,
+      "sha256": "70b8b78ab7a43542eebeb479392a25bb8670cd83b60e27e4a7ce49e75fca1971"
+    },
+    {
+      "id": "paper-27",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "angrisani2020instrumentation",
+      "destination": "assets/downloads/papers/bibs/angrisani2020instrumentation.bib",
+      "previous_url": null,
+      "bytes": 604,
+      "sha256": "fcf3485922a9f59ebf4b1f7ba06ac80adc7ade16bc32a5c4d5c9fe94183c3f46"
+    },
+    {
+      "id": "paper-28",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "maranesi2019differential",
+      "destination": "assets/downloads/papers/bibs/maranesi2019differential.bib",
+      "previous_url": null,
+      "bytes": 512,
+      "sha256": "26af7e4ec5d3407967233052e22145a41003a3c3f2878f35ea7b64a4a4cd4720"
+    },
+    {
+      "id": "paper-29",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2019donnarummaCurrOpinBehavSciPlanning.pdf",
+      "destination": "assets/downloads/papers/2019donnarummaCurrOpinBehavSciPlanning.pdf",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/2019donnarummaCurrOpinBehavSciPlanning.pdf",
+      "pages": 8,
+      "evidence": "doi",
+      "bytes": 447267,
+      "sha256": "fb6aeede7fac3fe4e65047adf7ec9ba983c83ea20bb50240e5227a9d14677b25"
+    },
+    {
+      "id": "paper-29",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2019planning",
+      "destination": "assets/downloads/papers/bibs/pezzulo2019planning.bib",
+      "previous_url": "https://filedn.com/l9KyLaDCeNz5NalK0VfEe7B/papers/bibs/2019donnarummaCurrOpinBehavSciPlanning.bib",
+      "bytes": 409,
+      "sha256": "b79e370c78badfdc0f288b5974bf06ce878ccaef9e366c66f57c9b49d9ecfb51"
+    },
+    {
+      "id": "paper-31",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2019donnarummaIndagoMetroIND.pdf",
+      "destination": "assets/downloads/papers/2019donnarummaIndagoMetroIND.pdf",
+      "previous_url": "http://www.metroind40iot.org/files/Program_MetroInd.pdf",
+      "pages": 5,
+      "evidence": "title",
+      "bytes": 217025,
+      "sha256": "ec7a04b03e6b6545517f6f4783f75ba4d59d50f310f7b4eebc49936bebf9b942"
+    },
+    {
+      "id": "paper-31",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2019feasibility",
+      "destination": "assets/downloads/papers/bibs/arpaia2019feasibility.bib",
+      "previous_url": null,
+      "bytes": 530,
+      "sha256": "3da96215c5835fe16fb95999f6e8f825056f989b435bc1bdf0d49f2adb174b45"
+    },
+    {
+      "id": "paper-32",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2019donnarummaMotorImageryI2MTC.pdf",
+      "destination": "assets/downloads/papers/2019donnarummaMotorImageryI2MTC.pdf",
+      "previous_url": "https://i2mtc2019.ieee-ims.org/sites/i2mtc19/files/documents/call-docs/I2MTC-2019_Program_FINAL_Ad_updated_V2_0.pdf",
+      "pages": 5,
+      "evidence": "title",
+      "bytes": 253767,
+      "sha256": "4f8a2f669b18bc4b737db62ac892a642dbaf87caa1fe8ceaf9135ea4d8421bf7"
+    },
+    {
+      "id": "paper-32",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "angrisani2019metrological",
+      "destination": "assets/downloads/papers/bibs/angrisani2019metrological.bib",
+      "previous_url": null,
+      "bytes": 455,
+      "sha256": "bfd282403e53bafbbe58ef8d03e1e8cce99fca7b27b87afbfeca17d4af9a1a32"
+    },
+    {
+      "id": "paper-33",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2019sensorimotor",
+      "destination": "assets/downloads/papers/bibs/donnarumma2019sensorimotor.bib",
+      "previous_url": null,
+      "bytes": 415,
+      "sha256": "fc24ebcaf561a669480db013297fd38136faf3c96ffb11d1f162f643c59aa711"
+    },
+    {
+      "id": "paper-34",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2019body",
+      "destination": "assets/downloads/papers/bibs/pezzulo2019body.bib",
+      "previous_url": null,
+      "bytes": 448,
+      "sha256": "9e44b45c4dedf6fa45d70dea2044a29a3eec9c85c6b28f5134f21a8e3ad2b59a"
+    },
+    {
+      "id": "paper-35",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2019future",
+      "destination": "assets/downloads/papers/bibs/pezzulo2019future.bib",
+      "previous_url": null,
+      "bytes": 557,
+      "sha256": "32a74095261af680b8060bb7523b5f33b2f8e7e811d41002e92907e8fbee01fd"
+    },
+    {
+      "id": "paper-36",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "prevete2018evidence",
+      "destination": "assets/downloads/papers/bibs/prevete2018evidence.bib",
+      "previous_url": null,
+      "bytes": 340,
+      "sha256": "1e28b703ee50620826324bf71c849352f024b3300e964fba7c43856693afaaab"
+    },
+    {
+      "id": "paper-37",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2018donnarummaIEEETCDSSensorimotor.pdf",
+      "destination": "assets/downloads/papers/2018donnarummaIEEETCDSSensorimotor.pdf",
+      "previous_url": null,
+      "pages": 15,
+      "evidence": "doi",
+      "bytes": 4409898,
+      "sha256": "db2a2af61e9356f1fec7fdf4aec049a131da410401c48fdbf46cf98c97c4d5e3"
+    },
+    {
+      "id": "paper-37",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2017sensorimotor",
+      "destination": "assets/downloads/papers/bibs/donnarumma2017sensorimotor.bib",
+      "previous_url": null,
+      "bytes": 404,
+      "sha256": "f3c18f91f42c89119b6516357c82798a8d7a580277e337f483f6d64f8f777f46"
+    },
+    {
+      "id": "paper-38",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2017model",
+      "destination": "assets/downloads/papers/bibs/pezzulo2017model.bib",
+      "previous_url": "https://www.dropbox.com/s/er2yzbbthic675o/donnarumma2017EntropyModel-based.bib?dl=1",
+      "bytes": 374,
+      "sha256": "c3afdef2d2179d359d21ccbfd1e95179e0f1a24ffb52e3c8159fa63fdad34f7f"
+    },
+    {
+      "id": "paper-39",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2017donnarummaBioCybTurnTaking.pdf",
+      "destination": "assets/downloads/papers/2017donnarummaBioCybTurnTaking.pdf",
+      "previous_url": "https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=d1f1f7d0-b2c7-4b86-9659-1021da8a19c0",
+      "pages": 19,
+      "evidence": "doi",
+      "bytes": 1836446,
+      "sha256": "e7b5bdad80649549645da55397219ee1fbfb239c4e87a7655357efbb778d3ece"
+    },
+    {
+      "id": "paper-40",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2017action",
+      "destination": "assets/downloads/papers/bibs/donnarumma2017action.bib",
+      "previous_url": null,
+      "bytes": 311,
+      "sha256": "ba8cd2ef9438b4079ad9f14c88b1ec6be1ae48695e2482f89cea1b5a447127e4"
+    },
+    {
+      "id": "paper-41",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2017donnarummaPsySciChampagne.pdf",
+      "destination": "assets/downloads/papers/2017donnarummaPsySciChampagne.pdf",
+      "previous_url": "https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=4c7d6a6f-695e-47c3-a9f0-f364d200f589",
+      "pages": 8,
+      "evidence": "doi",
+      "bytes": 997009,
+      "sha256": "ea087002546052b0f1a514b20dde171372fcd983a1bd4e874be03508f4eef6f5"
+    },
+    {
+      "id": "paper-41",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2017avoiding",
+      "destination": "assets/downloads/papers/bibs/pezzulo2017avoiding.bib",
+      "previous_url": null,
+      "bytes": 423,
+      "sha256": "d2b679457e5c85e63ecb1c308a2eea16be3d1e2d6e6e25ad55fae630b448e7d7"
+    },
+    {
+      "id": "paper-44",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "maisto2016nonparametric",
+      "destination": "assets/downloads/papers/bibs/maisto2016nonparametric.bib",
+      "previous_url": null,
+      "bytes": 374,
+      "sha256": "243cfe7ac5862a606af501914b1f7a969e6a6d883a6e16f406cb230d35f4b48e"
+    },
+    {
+      "id": "paper-45",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2015donnarummaAdaptBehavLearning.pdf",
+      "destination": "assets/downloads/papers/2015donnarummaAdaptBehavLearning.pdf",
+      "previous_url": "https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=6954948d-4479-4d51-b4d5-b0e75b83d606",
+      "pages": 25,
+      "evidence": "doi",
+      "bytes": 5250305,
+      "sha256": "71c4861b16774241c8a1a59e84ea80dc17e4a00722f5609a99f99bd6f0a099fe"
+    },
+    {
+      "id": "paper-46",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2015donnarummaJRSocInterfaceInteractional.pdf",
+      "destination": "assets/downloads/papers/2015donnarummaJRSocInterfaceInteractional.pdf",
+      "previous_url": null,
+      "pages": 12,
+      "evidence": "doi",
+      "bytes": 1531392,
+      "sha256": "8e3c333ddf4cc73b7c4aa8c9eca196af3a800032aa4a6d8a72e86f7f67b45fd4"
+    },
+    {
+      "id": "paper-46",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "candidi2015interactional",
+      "destination": "assets/downloads/papers/bibs/candidi2015interactional.bib",
+      "previous_url": null,
+      "bytes": 438,
+      "sha256": "4da2ea3ca70ea5eff130bb387a99e6def26d6f3b01f583c0d4b27969249e9e7f"
+    },
+    {
+      "id": "paper-47",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2015donnarummaBioCybIntentional.pdf",
+      "destination": "assets/downloads/papers/2015donnarummaBioCybIntentional.pdf",
+      "previous_url": null,
+      "pages": 15,
+      "evidence": "doi",
+      "bytes": 2046441,
+      "sha256": "13acd818d97ce3caf28019dd6c908ac1d265db687c6fa222ac68e6dc55637ce3"
+    },
+    {
+      "id": "paper-48",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2015donnarummaControlCybernDynamic.pdf",
+      "destination": "assets/downloads/papers/2015donnarummaControlCybernDynamic.pdf",
+      "previous_url": "http://control.ibspan.waw.pl:3000/contents/export?filename=donnarumma-et-al.pdf",
+      "pages": 30,
+      "evidence": "title",
+      "bytes": 1565846,
+      "sha256": "c92fb3589308f08863dd8eba2cc222eb07945431ae7173dbcfb31a2450f4f951"
+    },
+    {
+      "id": "paper-48",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2015dynamic",
+      "destination": "assets/downloads/papers/bibs/donnarumma2015dynamic.bib",
+      "previous_url": null,
+      "bytes": 301,
+      "sha256": "93bae80276be812458ce34f00e2b50ce85c88bb6625b802517bc388b82dc2e99"
+    },
+    {
+      "id": "paper-49",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2015donnarummaIJNSProgrammer.pdf",
+      "destination": "assets/downloads/papers/2015donnarummaIJNSProgrammer.pdf",
+      "previous_url": null,
+      "pages": 16,
+      "evidence": "doi",
+      "bytes": 1529862,
+      "sha256": "5a951d9453763b960ba48151c88e31bdee2352bf34a343a3479ed715e38620bb"
+    },
+    {
+      "id": "paper-50",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "maisto2015divide",
+      "destination": "assets/downloads/papers/bibs/maisto2015divide.bib",
+      "previous_url": null,
+      "bytes": 383,
+      "sha256": "4da599382f2f3926dfff64ba28069c5f05a737de545e4769639665ffbab9ffec"
+    },
+    {
+      "id": "paper-51",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2015donnarummaPhysLifeRev.pdf",
+      "destination": "assets/downloads/papers/2015donnarummaPhysLifeRev.pdf",
+      "previous_url": null,
+      "pages": 4,
+      "evidence": "doi",
+      "bytes": 304560,
+      "sha256": "ee23d8825c32fc98910bf0f96c1a3ccaa1d01b80c9d12fd5793f0104d6064c45"
+    },
+    {
+      "id": "paper-51",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2015role",
+      "destination": "assets/downloads/papers/bibs/pezzulo2015role.bib",
+      "previous_url": null,
+      "bytes": 511,
+      "sha256": "62866b52d649b9b733087f2c0c0f30372a26ecc5065ec26f8d26baf3229ca8ed"
+    },
+    {
+      "id": "paper-53",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2013donnarummaRLDMUsing.pdf",
+      "destination": "assets/downloads/papers/2013donnarummaRLDMUsing.pdf",
+      "previous_url": null,
+      "pages": 5,
+      "evidence": "title",
+      "bytes": 270498,
+      "sha256": "2421bc1b305d6bf5a181dab2dfa82712dd3a8e9f3c4eea9cd8ccbeaf5ce5cd94"
+    },
+    {
+      "id": "paper-53",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "maisto2013using",
+      "destination": "assets/downloads/papers/bibs/maisto2013using.bib",
+      "previous_url": null,
+      "bytes": 414,
+      "sha256": "d636ed68b5037d58bf5fc94f56c0f23614b9844fe747c131a08aa04093fca482"
+    },
+    {
+      "id": "paper-54",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2013donnarummaAdaptBehavMental.pdf",
+      "destination": "assets/downloads/papers/2013donnarummaAdaptBehavMental.pdf",
+      "previous_url": "https://cnrsc-my.sharepoint.com/personal/francesco_donnarumma_cnr_it/_layouts/15/download.aspx?UniqueId=f6fdab25-f672-4194-91e8-65d9a1e65207",
+      "pages": 13,
+      "evidence": "doi",
+      "bytes": 2340526,
+      "sha256": "3ac0c7c45d47abd388b8a0101620a8b354aca1e948383249ced734824f474529"
+    },
+    {
+      "id": "paper-55",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "giovanni2013sensorimotor",
+      "destination": "assets/downloads/papers/bibs/giovanni2013sensorimotor.bib",
+      "previous_url": null,
+      "bytes": 337,
+      "sha256": "346c1e81f7ba71ee001d0ddc8825d84943efaee59c01856cf45793fc9eb7d097",
+      "note": "Author separators corrected in exported copy: three authors, in the original order; source bibliography unchanged."
+    },
+    {
+      "id": "paper-56",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2012donnarummaIROSFast.pdf",
+      "destination": "assets/downloads/papers/2012donnarummaIROSFast.pdf",
+      "previous_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6385511",
+      "pages": 6,
+      "evidence": "title",
+      "bytes": 563818,
+      "sha256": "9aba259e9a2bfaeb5ffe88900662423854f3788f7149b662f4c54b7ec1ce3614"
+    },
+    {
+      "id": "paper-58",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "pezzulo2012hippocampal",
+      "destination": "assets/downloads/papers/bibs/pezzulo2012hippocampal.bib",
+      "previous_url": null,
+      "bytes": 381,
+      "sha256": "74758d40cb259b2c459cf6fd8ffb15d21cb3cb4fd192c1eeab00c21682fa08c8"
+    },
+    {
+      "id": "paper-60",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2011donnarummaICANGARobotic.pdf",
+      "destination": "assets/downloads/papers/2011donnarummaICANGARobotic.pdf",
+      "previous_url": null,
+      "pages": 10,
+      "evidence": "title",
+      "bytes": 308118,
+      "sha256": "f415afbe53d2891972efb3d0c605a73969e4c5642665973915e133e0a3c8bbe2"
+    },
+    {
+      "id": "paper-60",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "montone2011robotic",
+      "destination": "assets/downloads/papers/bibs/montone2011robotic.bib",
+      "previous_url": null,
+      "bytes": 400,
+      "sha256": "643689741b1eac598aecb1af8d10b064fd0990800d110ceb7afc86de71fc38fc"
+    },
+    {
+      "id": "paper-61",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "montone2010multiple",
+      "destination": "assets/downloads/papers/bibs/montone2010multiple.bib",
+      "previous_url": null,
+      "bytes": 360,
+      "sha256": "2fa748c5fe6ce8d6925e44a763c1200c0ed79c1b0706a77f54453577a2d0af7c"
+    },
+    {
+      "id": "paper-62",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2010donnarummaBBSHow.pdf",
+      "destination": "assets/downloads/papers/2010donnarummaBBSHow.pdf",
+      "previous_url": null,
+      "pages": 69,
+      "evidence": "commentary title and DOI on PDF page 28",
+      "bytes": 1014465,
+      "sha256": "90bb40ff85b04fa837cf1cf1c077191781801abf31ac477c3c51b1400fd3fa9c"
+    },
+    {
+      "id": "paper-62",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2010and",
+      "destination": "assets/downloads/papers/bibs/donnarumma2010and.bib",
+      "previous_url": null,
+      "bytes": 343,
+      "sha256": "4495923a272fcd579ddaf888170b8624a63a38ebd2075ec58ab6df470654cf56"
+    },
+    {
+      "id": "paper-64",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2010differential",
+      "destination": "assets/downloads/papers/bibs/arpaia2010differential.bib",
+      "previous_url": "http://donnarumma10differential.bib",
+      "bytes": 386,
+      "sha256": "745c64b42c87c1e1f46607a1db49eb06381adba78e7b6a59218ee3ef8a65e6eb"
+    },
+    {
+      "id": "paper-65",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2010donnarummaEESMSModel.pdf",
+      "destination": "assets/downloads/papers/2010donnarummaEESMSModel.pdf",
+      "previous_url": null,
+      "pages": 4,
+      "evidence": "title",
+      "bytes": 136245,
+      "sha256": "eee4b3ec3c648b60b4f6a42bdfb632419dbe463da0ede72fd5d45637887d6b25"
+    },
+    {
+      "id": "paper-65",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "arpaia2010model",
+      "destination": "assets/downloads/papers/bibs/arpaia2010model.bib",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/files/donnarumma10model.bib",
+      "bytes": 391,
+      "sha256": "5bca21528adb4998b71fc3b71ce06ae20ad1b46201fb39d361d9372b48778a3d"
+    },
+    {
+      "id": "paper-66",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2009model",
+      "destination": "assets/downloads/papers/bibs/donnarumma2009model.bib",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/donnarumma09model.bib",
+      "bytes": 224,
+      "sha256": "dc795fea59b1d9ee37c8d607914142cd5de88e2e81d785a74138e6c34554096a"
+    },
+    {
+      "id": "paper-67",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2008donnarummaECAI.pdf",
+      "destination": "assets/downloads/papers/2008donnarummaECAI.pdf",
+      "previous_url": null,
+      "pages": 2,
+      "evidence": "title verified; website has historical typo leaning for learning",
+      "bytes": 205161,
+      "sha256": "5cd7b5d4481c7a0da568064fa817639e72088c8b90a1ba4937774002da569048"
+    },
+    {
+      "id": "paper-67",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "de2008ctrnn",
+      "destination": "assets/downloads/papers/bibs/de2008ctrnn.bib",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/donnarumma08using.bib",
+      "bytes": 307,
+      "sha256": "334a63b4d44e7f5f482bedcb842c597d6c5d8a36eef6d05966390f0c1523dcd5"
+    },
+    {
+      "id": "paper-68",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "tamburrini2008uomo",
+      "destination": "assets/downloads/papers/bibs/tamburrini2008uomo.bib",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/donnarumma08interfacce.bib",
+      "bytes": 219,
+      "sha256": "644fcd65a7e73ba110e4590e511fe0022ff53d4f153c1fb1dfcb1e1bf3012e4e"
+    },
+    {
+      "id": "paper-69",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2007donnarummaICMPVirtuality.pdf",
+      "destination": "assets/downloads/papers/2007donnarummaICMPVirtuality.pdf",
+      "previous_url": null,
+      "pages": 7,
+      "evidence": "title",
+      "bytes": 154989,
+      "sha256": "f8b74b536cfdc707bd59ebc49b138d9a86bba7f6ec34a29e490d48da58b31bd2"
+    },
+    {
+      "id": "paper-69",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2007virtuality",
+      "destination": "assets/downloads/papers/bibs/donnarumma2007virtuality.bib",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/donnarumma07virtuality.bib",
+      "bytes": 312,
+      "sha256": "d602a8d143b2ed7ed5c3aba0602b9e6f4a97c0e13bfd9661790d09a80501cbfe"
+    },
+    {
+      "id": "paper-70",
+      "kind": "pdf",
+      "source": "~/OneDrive/PUBLIC/papers/2006donnarummaThesisStudio.pdf",
+      "destination": "assets/downloads/papers/2006donnarummaThesisStudio.pdf",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/donnarumma06studio.pdf",
+      "pages": 128,
+      "evidence": "title",
+      "bytes": 3047587,
+      "sha256": "cfcb422af9eaa1182baf597ed2dfde165971e99c06ce66bb91435e8019fd3da9"
+    },
+    {
+      "id": "paper-70",
+      "kind": "bib",
+      "source": "../donnarumma.bib",
+      "key": "donnarumma2006studio",
+      "destination": "assets/downloads/papers/bibs/donnarumma2006studio.bib",
+      "previous_url": "https://sites.google.com/site/francescodonnarumma/donnarumma06studio.bib",
+      "bytes": 240,
+      "sha256": "309930eb6b1ea99aebe0340a205b8da3d0a2a9d3500836ea1e9ec42b84279d16",
+      "note": "Master thesis entry type, verified against the PDF cover; source bibliography unchanged."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "paper-10",
+      "kind": "bib",
+      "reason": "No unambiguous existing citation record",
+      "title": "Extensions of the Hierarchical Gaussian Filter to Wiener diffusion processes"
+    },
+    {
+      "id": "paper-25",
+      "kind": "bib",
+      "reason": "No unambiguous existing citation record",
+      "title": "Models for Sensorimotor Communication in Humans and Robot"
+    },
+    {
+      "id": "paper-59",
+      "kind": "bib",
+      "reason": "No unambiguous existing citation record",
+      "title": "The AIRobots (Innovative aerial service robots for remote inspections by contact) Project"
+    }
+  ],
+  "notes": [
+    "Official PDF and citation links are retained where already present; legacy personal hosting and program-only PDF links are replaced when a matching local copy exists.",
+    "paper-68 PDF not linked: 2008donnarummaScienzaSocietaInterfacce.pdf is titled Le interfacce cervello-calcolatore e il futuro della mente, not L'uomo bionico e il futuro della mente. Relationship unconfirmed.",
+    "2007 ICONIP and WIVACE PDFs have no corresponding entry among the current 70 website publications; no new publication entries were added.",
+    "paper-62 uses the original 69-page collected PDF with a page-28 fragment pointing at the verified commentary."
+  ]
+}

@@ -63,6 +63,28 @@ La sincronizzazione copia solo PDF e BibTeX: non riscrive automaticamente la
 pagina Papers, che conserva anche tesi, interventi e contributi presenti nel
 sito storico ma non necessariamente nel BibTeX. Nessuna modifica ai CV originali.
 
+### PDF E Citazioni Dei Singoli Lavori
+
+Le copie locali dei paper sono in `assets/downloads/papers/`; i record BibTeX
+individuali sono nella sottocartella `bibs/`. I link `[pdf]` e `[bib]` vengono
+definiti nelle rispettive voci di `content/site.json`, senza modificare i DOI
+dei titoli o i link alle pagine arXiv. I PDF ufficiali gia' collegati restano
+preferiti alle copie locali.
+
+L'integrazione del 17 settembre 2026 usa `~/OneDrive/PUBLIC/papers/` per i PDF
+e il BibTeX canonico del CV per le citazioni, con un record presente solo nel
+BibTeX dell'archivio pubblico. Il confronto avviene per titolo e DOI, non solo
+per anno nel nome del file. Provenienza, hash e abbinamenti da verificare sono
+in [migration/paper-downloads.json](migration/paper-downloads.json).
+
+Il PDF del commento BBS del 2010 contiene anche altri contributi: il link apre
+la pagina 28 del documento raccolto. La copia del commento Physics of Life
+Reviews del 2015 e' una bozza editoriale (proof), indicata nel tooltip.
+Il file del 2008 sulle interfacce cervello-calcolatore non e' stato associato
+a "L'uomo bionico e il futuro della mente": il titolo differisce e
+l'equivalenza resta da confermare. I file originali dell'archivio non vengono
+modificati e non vengono pubblicate cartelle private del progetto CV.
+
 ## Verifiche
 
 `tools/check.py` controlla file, link interni, ancore, conteggio delle voci,
