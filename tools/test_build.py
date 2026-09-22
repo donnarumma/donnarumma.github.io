@@ -5,7 +5,7 @@ import unittest
 import json
 from html.parser import HTMLParser
 
-from build import ROOT, home_body, is_external_url, link, localize, make_search_index, plain
+from build import ROOT, contacts_body, home_body, is_external_url, link, localize, make_search_index, plain, profiles
 
 
 class Anchors(HTMLParser):
@@ -75,6 +75,33 @@ class LinkTests(unittest.TestCase):
     def test_link_title_is_escaped(self):
         anchor = Anchors(link('https://example.org/', 'Profile', 'profile-link', title='A "profile"')).anchors[0]
         self.assertEqual(anchor['title'], 'A "profile"')
+
+
+class ProfileTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.data = json.loads((ROOT / 'content/site.json').read_text())
+        cls.settings = json.loads((ROOT / 'content/settings.json').read_text())
+
+    def test_github_is_primary_and_dblp_is_secondary(self):
+        for prefix in ('', '../'):
+            with self.subTest(prefix=prefix):
+                anchors = Anchors(profiles(self.data, self.settings, prefix)).anchors
+                by_title = {a['title']: a for a in anchors}
+                self.assertEqual(len(anchors), 12)
+                self.assertNotIn('DBLP', by_title)
+                github = by_title['GitHub']
+                self.assertEqual(github['href'], 'https://github.com/donnarumma')
+                self.assertEqual(github['target'], '_blank')
+                self.assertEqual(set(github['rel'].split()), {'noopener', 'noreferrer'})
+                self.assertIn(prefix + 'assets/images/profile-github.png', profiles(self.data, self.settings, prefix))
+
+    def test_dblp_remains_an_active_contact_profile(self):
+        active = contacts_body(self.data, self.settings, '../').split('<details', 1)[0]
+        urls = [a['href'] for a in Anchors(active).anchors]
+        self.assertIn('https://dblp.org/pid/51/5522.html', urls)
+        self.assertIn('https://github.com/donnarumma', urls)
+        self.assertNotIn('DBLP', self.settings['archived_profiles'])
 
 
 class HighlightTests(unittest.TestCase):

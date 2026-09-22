@@ -96,7 +96,18 @@ async def main(port):
                 assert metrics['openalexLogoFits'], 'OpenAlex logo missing or incorrectly sized'
                 metrics['profileTitles'] = await evaluate("[...document.querySelectorAll('.profile-strip a')].map(a=>a.title)")
                 assert len(metrics['profileTitles']) == 12, metrics['profileTitles']
-                assert all(label in metrics['profileTitles'] for label in ['OpenAlex', 'W Social', 'Substack'])
+                assert all(label in metrics['profileTitles'] for label in ['GitHub', 'OpenAlex', 'W Social', 'Substack'])
+                assert 'DBLP' not in metrics['profileTitles']
+                metrics['githubLogoFits'] = await evaluate('''(()=>{
+                    const link=document.querySelector('.profile-strip a[title="GitHub"]');
+                    const img=link.querySelector('img'),logo=img.getBoundingClientRect(),box=link.getBoundingClientRect();
+                    return link.href==='https://github.com/donnarumma' && link.target==='_blank'
+                        && img.complete && img.naturalWidth>0 && img.alt==='GitHub'
+                        && logo.width>0 && logo.height>0
+                        && logo.left>=box.left && logo.right<=box.right
+                        && logo.top>=box.top && logo.bottom<=box.bottom;
+                })()''')
+                assert metrics['githubLogoFits'], 'GitHub logo missing or incorrectly sized'
                 assert 'Academia.edu' not in metrics['profileTitles']
                 metrics['backgrounds'] = await evaluate('''(async()=>{
                     const elements=[document.body,document.querySelector('.page-banner,.name-banner')];

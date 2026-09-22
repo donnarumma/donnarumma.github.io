@@ -1,5 +1,18 @@
 [
   {
+    "src": "assets/images/profile-github.png",
+    "alt": "GitHub",
+    "width": 294,
+    "height": 288,
+    "source": "https://brand.github.com/GitHub_Logos.zip",
+    "archive_member": "GitHub Logos/PNG/GitHub_Invertocat_White.png",
+    "reference": "https://brand.github.com/foundations/logo",
+    "retrieved_on": "2026-09-22",
+    "sha256": "0d4c235fef9efec54174a7c005fc0fe0ce2d63d35c21898ab5148587111397a9",
+    "bytes": 6223,
+    "frames": 1
+  },
+  {
     "src": "assets/images/profile-openalex.png",
     "alt": "OpenAlex",
     "width": 526,

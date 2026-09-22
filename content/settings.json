@@ -13,7 +13,19 @@
     "X / Twitter": "https://x.com/FranDonnarumma"
   },
   "archived_profiles": ["Academia.edu", "X / Twitter", "LinkedIn"],
+  "secondary_profiles": ["DBLP"],
   "additional_profiles": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/donnarumma",
+      "group": "code",
+      "image": {
+        "src": "assets/images/profile-github.png",
+        "alt": "GitHub",
+        "width": 294,
+        "height": 288
+      }
+    },
     {
       "label": "OpenAlex",
       "url": "https://openalex.org/authors/A5048689229",

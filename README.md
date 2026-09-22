@@ -23,6 +23,11 @@ anche gli URL assoluti dei domini personali e di `donnarumma.github.io`
 sono riconosciuti come interni. La regola viene applicata alla generazione
 dell'HTML, quindi funziona anche senza JavaScript.
 
+GitHub e' tra i dodici profili principali della barra superiore. DBLP rimane
+tra i profili attivi nella pagina Contacts, senza occupare spazio nella barra:
+`secondary_profiles` in `content/settings.json` controlla questa distinzione
+ed e' separato da `archived_profiles`, riservato ai profili non piu' usati.
+
 ## Modificare I Contenuti
 
 | File | Contenuto |
@@ -157,6 +162,8 @@ marchi di terzi. I loghi identificano i rispettivi servizi.
   conservato in PNG a 526 x 526 pixel e visualizzato piu' piccolo degli altri loghi.
 - Substack e W Social: icone ufficiali delle rispettive piattaforme, conservate
   localmente in PNG a 180 x 180 pixel.
+- GitHub: logo bianco ufficiale dal [Brand Toolkit](https://brand.github.com/foundations/logo),
+  conservato localmente per collegare il profilo `github.com/donnarumma`.
 - [migration/assets.json](migration/assets.json): URL originali, dimensioni,
   numero di fotogrammi e hash SHA-256.
 - [migration/cv-snapshot.json](migration/cv-snapshot.json): provenienza dei download.

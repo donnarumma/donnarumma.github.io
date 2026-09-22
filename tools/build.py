@@ -157,7 +157,7 @@ def profiles(data, settings, prefix):
     items = []
     profiles = data['profiles'] + [p for p in settings['additional_profiles'] if 'image' in p]
     for profile in profiles:
-        if profile['label'] in settings['archived_profiles']:
+        if profile['label'] in settings['archived_profiles'] or profile['label'] in settings.get('secondary_profiles', []):
             continue
         label = profile['label']
         url = settings['profile_updates'].get(label, profile['url'])
