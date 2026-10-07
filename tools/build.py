@@ -2,6 +2,7 @@
 """Build the static website without network access or third-party packages."""
 
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -284,6 +285,8 @@ def main():
     for path in required:
         if not (output / path).is_file():
             raise SystemExit('Missing required local asset: ' + path)
+    cv_version = hashlib.sha256((output / settings['cv']).read_bytes()).hexdigest()[:12]
+    settings['cv'] += '?v=' + cv_version
     for page in LABELS:
         for root_home in ([False, True] if page == 'home' else [False]):
             prefix = '' if root_home else '../'

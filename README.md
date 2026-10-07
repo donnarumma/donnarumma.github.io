@@ -71,6 +71,10 @@ La sincronizzazione copia solo PDF e BibTeX: la pagina Papers viene aggiornata
 separatamente in `content/site.json`, usando le stesse chiavi bibliografiche.
 Il comando non modifica le sorgenti originali del CV.
 
+Il generatore aggiunge ai link del CV `?v=` seguito da un hash del PDF.
+La versione cambia automaticamente quando cambia il file: il browser non
+riutilizza cosi' una copia precedente dalla cache. Il nome del PDF resta stabile.
+
 Dal 7 ottobre 2026 tutte le 77 voci di Papers hanno una corrispondenza nel
 BibTeX del CV, inclusi contributi congressuali, interventi invitati, editoriali
 e correzioni, con la relativa tipologia esplicitata. Dopo la compilazione del
