@@ -1,0 +1,601 @@
+{
+  "checked_on": "2026-10-07",
+  "scholar_profile": "https://scholar.google.it/citations?user=cz9mqq4AAAAJ&sortby=pubdate&pagesize=100",
+  "scholar_rows": 75,
+  "scholar_more_button_disabled": true,
+  "canonical_entries": 77,
+  "website_entries": 77,
+  "unmatched_scholar_publications": [],
+  "scholar_matches": [
+    {
+      "scholar_id": "cz9mqq4AAAAJ:8gBurD7jEYQC",
+      "title": "Inferential planning in the frontal cortex",
+      "status": "matched",
+      "bibkey": "donnarumma2025inferential",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:IyxfXMz2bNAC",
+      "title": "Cognitive behavior emerging in mechanical systems through reservoir encoding and active inference",
+      "status": "matched",
+      "bibkey": "torzoni2026cognitive",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:x2hKVfJWtf0C",
+      "title": "Multi-Agent Digital Twins for Strategic Decision-Making using Active Inference",
+      "status": "matched",
+      "bibkey": "mancinelli2026multi",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:5VjbC5aozO0C",
+      "title": "False but phonologically plausible linguistic priors induce cross-linguistic auditory illusions and attenuate electrophysiological markers of surprise",
+      "status": "matched",
+      "bibkey": "giraldi2025false",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:Ul_CLA4dPeMC",
+      "title": "A predictive processing framework for joint action and communication",
+      "status": "matched",
+      "bibkey": "pezzulo2026predictive",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:XeErXHja3Z8C",
+      "title": "Learning through action in mechanical systems via free energy minimization",
+      "status": "matched",
+      "bibkey": "torzoni2026learning",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:rzmi0EmCOGEC",
+      "title": "Hierarchical active inference for modelling multi-scale cognitive processing",
+      "status": "matched",
+      "bibkey": "donnarumma2026hierarchical",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:MNNNGtAgD4EC",
+      "title": "Active digital twins via active inference",
+      "status": "matched",
+      "bibkey": "torzoni2026active",
+      "scholar_year": "2026"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:e3CVSTJ63dQC",
+      "title": "Integrating large language models and active inference to understand eye movements in reading and dyslexia",
+      "status": "matched",
+      "bibkey": "donnarumma2025integrating",
+      "scholar_year": "2025"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:dFKc6_kCK1wC",
+      "title": "From kinematics to sensorimotor communication: Understanding dual roles of action in social interaction. comment on\" Kinematic coding: Measuring information in naturalistic\u00a0\u2026",
+      "status": "matched",
+      "bibkey": "pezzulo2025kinematics",
+      "scholar_year": "2025"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:4E1Y8I9HL1wC",
+      "title": "A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)",
+      "status": "matched",
+      "bibkey": "visalli2024computational",
+      "scholar_year": "2024"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:ehoypfNsBj8C",
+      "title": "Enhancing eeg-based mi-bcis with class-specific and subject-specific features detected by neural manifold analysis",
+      "status": "matched",
+      "bibkey": "frosolone2024enhancing",
+      "scholar_year": "2024"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:U5uP8zs9lfgC",
+      "title": "Exploring the Latent Space of Person-Specific Convolutional Autoencoders for Eye-Blink Artefact Mitigation in EEG Signals",
+      "status": "matched",
+      "bibkey": "criscuolo2024exploring",
+      "scholar_year": "2024"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:E8ajGqO0XoUC",
+      "title": "From particles to collectives. Commentary on\" Path integrals, particular kinds, and strange things\" by Friston et al.",
+      "status": "matched",
+      "bibkey": "eluchans2024particles",
+      "scholar_year": "2024"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:2Q0AJrNhS-QC",
+      "title": "Modeling motor control in continuous time active inference: a survey",
+      "status": "matched",
+      "bibkey": "priorelli2024modeling",
+      "scholar_year": "2023"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:hEXC_dOfxuUC",
+      "title": "Interactive inference: A multi-agent model of cooperative joint actions",
+      "status": "matched",
+      "bibkey": "maisto2024interactive",
+      "scholar_year": "2023"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:_IsBomjs8bsC",
+      "title": "Special Issue on Deep Learning for Electroencephalography (EEG) Data Analysis",
+      "status": "matched",
+      "bibkey": "prevete2023special",
+      "scholar_year": "2023"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:5rMqqAh47xYC",
+      "title": "Visual and haptic feedback in detecting motor imagery within a wearable brain\u2013computer interface",
+      "status": "matched",
+      "bibkey": "arpaia2023visual",
+      "scholar_year": "2023"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:vjZqxyZ7hS4C",
+      "title": "Multimodal feedback in assisting a wearable brain-computer interface based on motor imagery",
+      "status": "matched",
+      "bibkey": "arpaia2022multimodal",
+      "scholar_year": "2022"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:uoRD4RTSUPoC",
+      "title": "Non-immersive versus immersive extended reality for motor imagery neurofeedback within a brain-computer interfaces",
+      "status": "matched",
+      "bibkey": "arpaia2022non",
+      "scholar_year": "2022"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:rpSJNIKeXWsC",
+      "title": "Shared population-level dynamics in monkey premotor cortex during solo action, joint action and action observation",
+      "status": "matched",
+      "bibkey": "pezzulo2022shared",
+      "scholar_year": "2022"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:J4E9jCG1tHUC",
+      "title": "Hysteresis Modeling in Iron-Dominated Magnets Based on a Multi-Layered NARX Neural Network Approach",
+      "status": "matched",
+      "bibkey": "amodeo2021hysteresis",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:nOiSByfp82kC",
+      "title": "Hippocampal place cells encode global location but not connectivity in a complex space",
+      "status": "matched",
+      "bibkey": "duvelle2021hippocampal",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:u_mOZUIutIEC",
+      "title": "Channel Selection for Optimal EEG Measurement in Motor Imagery-Based Brain-Computer Interfaces.",
+      "status": "matched",
+      "bibkey": "arpaia2020channel",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:xa5BkEQK8BgC",
+      "title": "A survey on modern trainable activation functions",
+      "status": "matched",
+      "bibkey": "apicella2021survey",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:GtqhT-R7ZnwC",
+      "title": "Conceptual design of a machine learning-based wearable soft sensor for non-invasive cardiovascular risk assessment",
+      "status": "matched",
+      "bibkey": "arpaia2021conceptual",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:cF7EPgIk0B4C",
+      "title": "A framework to identify structured behavioral patterns within rodent spatial trajectories",
+      "status": "matched",
+      "bibkey": "donnarumma2020framework",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:nU66GSXDKhoC",
+      "title": "Moral decisions in the age of COVID-19: Your choices really matter",
+      "status": "matched",
+      "bibkey": "donnarumma2021moral",
+      "scholar_year": "2021"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:tgTmbKTkO1IC",
+      "title": "Instrumentation for motor imagery-based brain computer interfaces relying on dry electrodes: a functional analysis",
+      "status": "matched",
+      "bibkey": "angrisani2020instrumentation",
+      "scholar_year": "2020"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:ZysSsiWj_g4C",
+      "title": "Author Correction: Differential neural dynamics underlying pragmatic and semantic affordance processing in macaque ventral premotor cortex",
+      "status": "matched",
+      "bibkey": "maranesi2020correction",
+      "scholar_year": "2020"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:cdwqcPQS8ssC",
+      "title": "Social epistemic actions",
+      "status": "matched",
+      "bibkey": "pezzulo2020social",
+      "scholar_year": "2020"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:SWgZeABleR0C",
+      "title": "Planning at decision time and in the background during spatial navigation",
+      "status": "matched",
+      "bibkey": "pezzulo2019planning",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:vD2iS2Kej30C",
+      "title": "Differential neural dynamics underlying pragmatic and semantic affordance processing in macaque ventral premotor cortex",
+      "status": "matched",
+      "bibkey": "maranesi2019differential",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:ybfzIt2tCtgC",
+      "title": "Tracking the time course of Bayesian inference with event-related potentials: A study using the central Cue Posner Paradigm",
+      "status": "matched",
+      "bibkey": "gomez2019tracking",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:XtJa11BXPS4C",
+      "title": "Feasibility of cardiovascular risk assessment through non-invasive measurements",
+      "status": "matched",
+      "bibkey": "arpaia2019feasibility",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:oynPyU19kbsC",
+      "title": "Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery",
+      "status": "matched",
+      "bibkey": "angrisani2019metrological",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:8p8iYwVyaVcC",
+      "title": "The future of sensorimotor communication research. Reply to comments on \u201cThe body talks: Sensorimotor communication and its brain and kinematic signatures\u201d",
+      "status": "matched",
+      "bibkey": "pezzulo2019future",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:j8pvxH-kN2QC",
+      "title": "The body talks: Sensorimotor communication and its brain and kinematic signatures",
+      "status": "matched",
+      "bibkey": "pezzulo2019body",
+      "scholar_year": "2019"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:I9gX6wnfuA8C",
+      "title": "Evidence for sparse synergies in grasping actions",
+      "status": "matched",
+      "bibkey": "prevete2018evidence",
+      "scholar_year": "2018"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:ujxm2eEBZHIC",
+      "title": "Sensorimotor communication for humans and robots: Improving interactive skills by sending coordination signals",
+      "status": "matched",
+      "bibkey": "donnarumma2017sensorimotor",
+      "scholar_year": "2017"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:IT1MJ6E3JesC",
+      "title": "Model-based approaches to active perception and control",
+      "status": "matched",
+      "bibkey": "pezzulo2017model",
+      "scholar_year": "2017"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:htyGaKyDgHMC",
+      "title": "Action perception as hypothesis testing",
+      "status": "matched",
+      "bibkey": "donnarumma2017action",
+      "scholar_year": "2017"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:B2rIPIGFPLEC",
+      "title": "Avoiding accidents at the champagne reception: A study of joint lifting and balancing",
+      "status": "matched",
+      "bibkey": "pezzulo2017avoiding",
+      "scholar_year": "2017"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:u0Mu_IsstPMC",
+      "title": "Sensorimotor coarticulation in the execution and recognition of intentional actions",
+      "status": "matched",
+      "bibkey": "donnarumma2017coarticulation",
+      "scholar_year": "2017"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:zdX0sdgBH_kC",
+      "title": "You cannot speak and listen at the same time: a probabilistic model of turn-taking",
+      "status": "matched",
+      "bibkey": "donnarumma2017you",
+      "scholar_year": "2017"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:BPS1z4jHU5cC",
+      "title": "Problem solving as probabilistic inference with subgoaling: explaining human successes and pitfalls in the tower of hanoi",
+      "status": "matched",
+      "bibkey": "donnarumma2016problem",
+      "scholar_year": "2016"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:NZNkWSpQBv0C",
+      "title": "Nonparametric problem-space clustering: learning efficient codes for cognitive control tasks",
+      "status": "matched",
+      "bibkey": "maisto2016nonparametric",
+      "scholar_year": "2016"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:MGPUR4WVBMEC",
+      "title": "Learning programs is better than learning dynamics: A programmable neural network hierarchical architecture in a multi-task scenario",
+      "status": "matched",
+      "bibkey": "donnarumma2016learning",
+      "scholar_year": "2016"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:mVC4hKzE2FoC",
+      "title": "The intentional stance as structure learning: a computational perspective on mindreading",
+      "status": "matched",
+      "bibkey": "dindo2015intentional",
+      "scholar_year": "2015"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:3fE2CSJIrl8C",
+      "title": "A programmer\u2013interpreter neural network architecture for prefrontal cognitive control",
+      "status": "matched",
+      "bibkey": "donnarumma2015programmer",
+      "scholar_year": "2015"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:WMtz-WDmgKQC",
+      "title": "Interactional leader\u2013follower sensorimotor communication strategies during repetitive joint actions",
+      "status": "matched",
+      "bibkey": "candidi2015interactional",
+      "scholar_year": "2015"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:MXK_kJrjxJIC",
+      "title": "Divide et impera: subgoaling reduces the complexity of probabilistic inference and problem solving",
+      "status": "matched",
+      "bibkey": "maisto2015divide",
+      "scholar_year": "2015"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:8k81kl-MbHgC",
+      "title": "The role of synergies within generative models of action performace and recognition: A computational perspective: Comment on \u201cGrasping synergies: A motor-control approach to\u00a0\u2026",
+      "status": "matched",
+      "bibkey": "pezzulo2015role",
+      "scholar_year": "2015"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:GJVTs2krol4C",
+      "title": "Dynamic network functional comparison via approximate-bisimulation.",
+      "status": "matched",
+      "bibkey": "donnarumma2015dynamic",
+      "scholar_year": "2015"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:UebtZRa9Y70C",
+      "title": "Human sensorimotor communication: A theory of signaling in online social interactions",
+      "status": "matched",
+      "bibkey": "pezzulo2013human",
+      "scholar_year": "2013"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:5nxA0vEk-isC",
+      "title": "Using subgoals to reduce the descriptive complexity of probabilistic inference and control programs",
+      "status": "matched",
+      "bibkey": "maisto2013using",
+      "scholar_year": "2013"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:LkGwnXOMwfcC",
+      "title": "Mental imagery in the navigation domain: a computational model of sensory-motor simulation mechanisms",
+      "status": "matched",
+      "bibkey": "chersi2013mental",
+      "scholar_year": "2013"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:roLk4NBRz8UC",
+      "title": "Sensorimotor Communication: a Theory of Signalling in Online Social Interactions",
+      "status": "matched",
+      "bibkey": "giovanni2013sensorimotor",
+      "scholar_year": "2013"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:_FxGoFyzp5QC",
+      "title": "Fast incremental clustering and representation of a 3D point cloud sequence with planar regions",
+      "status": "matched",
+      "bibkey": "donnarumma2012fast",
+      "scholar_year": "2012"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:WF5omc3nYNoC",
+      "title": "Programming in the brain: a neural network theoretical framework",
+      "status": "matched",
+      "bibkey": "donnarumma2012programming",
+      "scholar_year": "2012"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:ufrVoPGSRksC",
+      "title": "Hippocampal forward sweeps and the balance of goal-directed and habitual controllers: a Bayesian approach",
+      "status": "matched",
+      "bibkey": "pezzulo2012hippocampal",
+      "scholar_year": "2012"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:IjCSPb-OGe4C",
+      "title": "A robotic scenario for programmable fixed-weight neural networks exhibiting multiple behaviors",
+      "status": "matched",
+      "bibkey": "montone2011robotic",
+      "scholar_year": "2011"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:BCdnXsLIVDwC",
+      "title": "The AIRobots (Innovative aerial service robots for remote inspections by contact) Project",
+      "status": "matched",
+      "bibkey": "lippiello2011airobots",
+      "scholar_year": "2011"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:Y0pCki6q_DkC",
+      "title": "Multiple programmable behaviours in a fixed weight artificial neural network. A robotic application",
+      "status": "matched",
+      "bibkey": "montone2010multiple",
+      "scholar_year": "2010"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:Tyk-4Ss8FVUC",
+      "title": "A differential discrete particle swarm optimization approach to model predictive control of building temperature",
+      "status": "matched",
+      "bibkey": "arpaia2010differential",
+      "scholar_year": "2010"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:zYLM7Y9cAGgC",
+      "title": "Model predictive control strategy based on differential discrete particle swarm optimization",
+      "status": "matched",
+      "bibkey": "arpaia2010model",
+      "scholar_year": "2010"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:9yKSN-GCB0IC",
+      "title": "How and over what timescales does neural reuse actually occur?",
+      "status": "matched",
+      "bibkey": "donnarumma2010and",
+      "scholar_year": "2010"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:qjMakFHDy7sC",
+      "title": "An Action-Tuned Neural Network Architecture For Hand Pose Estimation",
+      "status": "matched",
+      "bibkey": "tessitore2010action",
+      "scholar_year": "2010"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:u-x6o8ySG0sC",
+      "title": "A model for programmability and virtuality in dynamical neural networks",
+      "status": "matched",
+      "bibkey": "donnarumma2009model",
+      "scholar_year": "2009"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:W7OEmFMy1HYC",
+      "title": "L'uomo bionico e il futuro della mente",
+      "status": "matched",
+      "bibkey": "tamburrini2008uomo",
+      "scholar_year": "2008"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:d1gkVwhDpl0C",
+      "title": "CTRNN parameter learning using Differential Evolution",
+      "status": "matched",
+      "bibkey": "de2008ctrnn",
+      "scholar_year": "2008"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:YsMSGLbcyi4C",
+      "title": "A Differential Evolution approach to CTRNN parameter learning",
+      "status": "matched",
+      "bibkey": "de2007differential",
+      "scholar_year": "2007"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:u5HHmVD_uO8C",
+      "title": "Virtuality in neural dynamical systems",
+      "status": "matched",
+      "bibkey": "donnarumma2007virtuality",
+      "scholar_year": "2007"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:eQOLeE2rZwMC",
+      "title": "Studio di un controllo motorio ispirato al biologico realizzato tramite reti CTRNN",
+      "status": "matched",
+      "bibkey": "donnarumma2006studio",
+      "scholar_year": "2006"
+    },
+    {
+      "scholar_id": "cz9mqq4AAAAJ:TeJ9juy8vcMC",
+      "title": "Dartmouth Digital Common s",
+      "status": "duplicate_misindexed",
+      "bibkey": "donnarumma2020framework"
+    }
+  ],
+  "added_to_canonical": [
+    "torzoni2026cognitive",
+    "mancinelli2026multi",
+    "torzoni2026learning",
+    "donnarumma2026hierarchical",
+    "prevete2023special",
+    "maranesi2020correction",
+    "lippiello2011airobots",
+    "visalli2024extensions",
+    "donnarumma2020models"
+  ],
+  "added_to_website": [
+    {
+      "id": "paper-71",
+      "bibkey": "torzoni2026cognitive"
+    },
+    {
+      "id": "paper-72",
+      "bibkey": "mancinelli2026multi"
+    },
+    {
+      "id": "paper-73",
+      "bibkey": "torzoni2026learning"
+    },
+    {
+      "id": "paper-74",
+      "bibkey": "donnarumma2026hierarchical"
+    },
+    {
+      "id": "paper-75",
+      "bibkey": "prevete2023special"
+    },
+    {
+      "id": "paper-76",
+      "bibkey": "maranesi2020correction"
+    },
+    {
+      "id": "paper-77",
+      "bibkey": "de2007differential"
+    }
+  ],
+  "notes": [
+    "All 75 Scholar rows were inspected; 74 distinct records match the bibliography and Papers page.",
+    "Dartmouth Digital Common s is the repository copy of A framework to identify structured behavioral patterns within rodent spatial trajectories, not a distinct publication.",
+    "Scholar records for Modeling motor control and Interactive inference use online-first years (2023); the final IEEE issue year is 2024.",
+    "Sensorimotor communication for humans and robots uses the final IEEE issue year 2018; the existing BibTeX key retains 2017 for citation compatibility.",
+    "PAM is dated 2024 according to the arXiv submission; no final journal publication was verified.",
+    "The PhD thesis bibliography uses the repository year 2009; the confirmed defence date 17 February 2010 is preserved in the CV and website.",
+    "Conference abstracts, posters, invited talks, editorials and the author correction are identified explicitly; arXiv manuscripts use the requested under review convention.",
+    "The three non-Scholar contributions retained in both CV and website are MONA 2024, the invited ICRA 2020 talk and ECVP 2019."
+  ],
+  "sources": [
+    "https://arxiv.org/abs/2609.23013",
+    "https://arxiv.org/abs/2604.12657",
+    "https://re.public.polimi.it/handle/11311/1314889",
+    "https://www.rivisteweb.it/doi/10.1422/120415",
+    "https://www.mdpi.com/2076-3417/13/20/11475/reprints",
+    "https://www.nature.com/articles/s41598-020-62216-3",
+    "https://www.iris.unisa.it/handle/11386/3035657",
+    "https://www.fedoa.unina.it/4293/",
+    "https://handovers.gitlab.io/icra2020-handovers/pages/invited-speakers.html",
+    "https://unimore.unifind.cineca.it/v1/dataservice/files/ugovcv/VISALLI_ANTONINO_en_12544.pdf",
+    "https://api.crossref.org/works/10.1109/TCDS.2017.2756107",
+    "https://api.crossref.org/works/10.1109/TCDS.2023.3338491",
+    "https://api.crossref.org/works/10.1016/j.plrev.2015.01.021"
+  ]
+}

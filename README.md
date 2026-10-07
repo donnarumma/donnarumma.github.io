@@ -32,7 +32,7 @@ ed e' separato da `archived_profiles`, riservato ai profili non piu' usati.
 
 | File | Contenuto |
 | --- | --- |
-| [content/site.json](content/site.json) | Testi delle sei pagine, 70 voci bibliografiche, immagini, highlights e video. |
+| [content/site.json](content/site.json) | Testi delle sei pagine, 77 voci bibliografiche, immagini, highlights e video. |
 | [content/settings.json](content/settings.json) | Contatti, profili aggiuntivi, URL pubblico e indicizzazione. |
 | [assets/css/site.css](assets/css/site.css) | Impaginazione, colori e versioni desktop/mobile. |
 | [templates/base.html](templates/base.html) | Struttura comune, navigazione, metadati e ricerca. |
@@ -45,6 +45,9 @@ In `content/site.json`, cercare il titolo o il testo da modificare. Ogni voce di
 normalmente lettere accentate UTF-8. L'ordine nell'array e' l'ordine nella pagina.
 Per aggiungere una voce usare un nuovo ID, senza rinumerare le vecchie ancore.
 Il campo facoltativo `title` permette di specificare il titolo nella ricerca.
+Ogni voce Papers contiene anche `bibkey`, la chiave della stessa voce nel
+BibTeX canonico del CV. Le ancore `paper-XX` restano stabili quando cambia
+l'ordine cronologico.
 
 Dalla cartella `Website`, dopo le modifiche:
 
@@ -64,9 +67,28 @@ python3 tools/build.py
 python3 tools/check.py
 ```
 
-La sincronizzazione copia solo PDF e BibTeX: non riscrive automaticamente la
-pagina Papers, che conserva anche tesi, interventi e contributi presenti nel
-sito storico ma non necessariamente nel BibTeX. Nessuna modifica ai CV originali.
+La sincronizzazione copia solo PDF e BibTeX: la pagina Papers viene aggiornata
+separatamente in `content/site.json`, usando le stesse chiavi bibliografiche.
+Il comando non modifica le sorgenti originali del CV.
+
+Dal 7 ottobre 2026 tutte le 77 voci di Papers hanno una corrispondenza nel
+BibTeX del CV, inclusi contributi congressuali, interventi invitati, editoriali
+e correzioni, con la relativa tipologia esplicitata. Dopo la compilazione del
+CV e l'aggiornamento di `content/site.json`, verificare la sincronizzazione con:
+
+```bash
+python3 tools/sync_cv.py
+python3 tools/build.py
+python3 tools/check.py
+python3 tools/check_publications.py
+```
+
+L'ultimo controllo richiede Biber e confronta chiavi, titoli, anni, DOI e le
+copie scaricabili di PDF/BibTeX con le sorgenti del CV. Il confronto completo
+con le 75 voci pubbliche di Scholar e le fonti editoriali e' documentato in
+[migration/publications-audit-2026-10-07.json](migration/publications-audit-2026-10-07.json).
+La voce Scholar "Dartmouth Digital Common s" e' una copia indicizzata con un
+titolo errato dell'articolo sui percorsi dei roditori, gia' presente.
 
 ### PDF E Citazioni Dei Singoli Lavori
 
